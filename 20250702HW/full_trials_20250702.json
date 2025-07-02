@@ -1,0 +1,2702 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02536248",
+        "orgStudyIdInfo": {
+          "id": "JANU-INF"
+        },
+        "organization": {
+          "fullName": "Laval University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Sitagliptin Therapy and Kinetics of Inflammatory Markers",
+        "officialTitle": "EFFECTS OF SITAGLIPTIN THERAPY ON THE KINETICS OF MARKERS OF LOW-GRADE INFLAMMATION AND CELL ADHESION MOLECULES IN PATIENTS WITH TYPE 2 DIABETES"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-08-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2017-09-30",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2017-10-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2015-08-27",
+        "studyFirstSubmitQcDate": "2015-08-28",
+        "studyFirstPostDateStruct": {
+          "date": "2015-08-31",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2020-03-30",
+        "resultsFirstSubmitQcDate": "2020-04-30",
+        "resultsFirstPostDateStruct": {
+          "date": "2020-05-13",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-04-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-05-13",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Patrick Couture",
+          "investigatorTitle": "MD, PhD, FRCP",
+          "investigatorAffiliation": "Laval University"
+        },
+        "leadSponsor": {
+          "name": "Laval University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Merck Sharp & Dohme LLC",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Inflammatory processes are increasingly being recognized as a critical step in the pathogenesis of both diabetes and heart disease and may constitute a biological link between the two diseases. Inflammatory cytokines increase vascular permeability, change vasoregulatory responses, increase leukocyte adhesion to endothelium, and facilitate thrombus formation by inducing procoagulant activity, inhibiting anticoagulant pathways, and impairing fibrinolysis. Leukocyte adhesion to arterial endothelial cells is thought to be an important step in the development of atherosclerosis, and adhesion molecules, such as intercellular adhesion molecule-1 (ICAM-1) and L-selectin, play key roles in this process. Therefore, identifying novel therapeutic approaches that would favorably affect inflammation, endothelial function, and glucose is of significant interest. Investigators have recently demonstrated that, relative to placebo, sitagliptin treatment resulted in a significant reduction in plasma levels of various inflammatory markers and cell adhesion molecules. The results also suggest that the beneficial effects of sitagliptin on both inflammation and endothelial function are most likely mediated by an elevation in plasma GLP-1 levels and global improvement of the glucose-insulin homeostasis. However, the mechanisms underlying the beneficial effects of sitagliptin on these markers remain to be fully elucidated. The proposed study will address this key issue."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes Mellitus"
+        ],
+        "keywords": [
+          "sitagliptin",
+          "diabetes",
+          "inflammation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "QUADRUPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 20,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Sitagliptin first, then Placebo",
+            "type": "EXPERIMENTAL",
+            "description": "Sitagliptin 100 mg/d for 6 weeks\n\nWash-out 14 days\n\nPlacebo for 6 weeks",
+            "interventionNames": [
+              "Drug: Sitagliptin",
+              "Drug: Placebo"
+            ]
+          },
+          {
+            "label": "Placebo first, then Sitagliptin",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Placebo for 6 weeks\n\nWash-out 14 days\n\nSitagliptin 100 mg/d for 6 weeks",
+            "interventionNames": [
+              "Drug: Sitagliptin",
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Sitagliptin",
+            "description": "Sitagliptin 100 mg/d for 6 weeks",
+            "armGroupLabels": [
+              "Placebo first, then Sitagliptin",
+              "Sitagliptin first, then Placebo"
+            ],
+            "otherNames": [
+              "Januvia"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "description": "Placebo for 6 weeks",
+            "armGroupLabels": [
+              "Placebo first, then Sitagliptin",
+              "Sitagliptin first, then Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Measurement of C-reactive Protein Production Rate With Stable Isotope During Postprandial Period",
+            "timeFrame": "6 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Measurement of Serum Amyloid A Production Rate With Stable Isotope During Postprandial Period",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "Measurement of L-selectin Production Rate With Stable Isotope During Postprandial Period",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "Measurement of ICAM-1 Production Rate With Stable Isotope During Postprandial Period",
+            "timeFrame": "6 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Males 18 to 65 years of age.\n* Post-menopausal women under age 65 on stable medical therapy for 6 months before the study (the patient should have demonstrated stable lipid panels)\n* Women should not be on hormone replacement therapy (no recent starting or stopping)\n* Type 2 diabetes as defined by the American Diabetes Association.\n* Non-smoker.\n* Body mass index between 25.0 and 40.0 kg/m2.\n* Baseline glycated hemoglobin A1c (HbA1c) between 6.5 and 8.5%.\n* Baseline fasting plasma glucose \\< 15.0 mmol/L.\n* Plasma triglyceride levels between 1.5 and 8.0 mmol/L (135 and 710 mg/dl) at screening and week -4.\n* Patients having received stable doses of metformin for at least 3 months before randomization.\n* Subjects must be willing to give written informed consent and able to adhere to dosing schedule, visit schedule and phone follow-up assessment.\n* Patients should be otherwise generally healthy, without elevations in hepatic transaminases or abnormal renal function or coagulation.\n* Patients having normal thyroid stimulating hormone at screening\n\nExclusion Criteria:\n\n* Patients with extreme dyslipidemias, such as familial hypercholesterolemia will be excluded.\n* Patients with type 1 diabetes, secondary form of diabetes or acute metabolic diabetic complications will be excluded.\n* Patients having received or being treated with insulin or a thiazolidinedione within the past 6 months will be excluded.\n* Patients taking any other hypoglycemic agent, other than metformin.\n* Subjects will be excluded if they have cardiovascular disease (coronary heart disease, cerebrovascular disease or peripheral arterial disease) or if they are taking other medications known to affect lipoprotein metabolism (e.g. steroids, beta blockers, thiazide diuretics, lipid lowering agents, significant alcohol intake etc.).\n* Subjects who are in a situation or have any condition that, in the opinion of the investigator, may interfere with optimal participation in the study.\n* Individuals with a history of mental instability, drug or alcohol abuse or individuals who have been treated or are being treated for severe psychiatric illness that, in the opinion of the investigator, may interfere with optimal participation in the study.\n* History of alcohol or drug abuse within the past 2 years. Patients must not take alcohol during the study.\n* Disorders of the hematologic, digestive, or central nervous systems, including cerebrovascular disease and degenerative disease, that would limit study evaluation or participation.\n* Known impairment of renal function (serum creatinine levels \\> 1.7 mg/dL for men), dysproteinemia, nephrotic syndrome, or other renal disease (24-hour urinary protein ≥3 ± 1 g).\n* Active or chronic hepatobiliary or hepatic disease. In addition, patients with aspartate aminotransferase or alanine aminotransferase \\>2 x upper limit of the laboratory reference range will be excluded.\n* Subjects with coagulopathy (prothrombin time or partial thromboplastin time at Visit 1 \\>1.5 times control).\n* Subjects with hemoglobin \\>2 x the lower limit of the laboratory reference range will be excluded.\n* Patients who are known to have tested positive for human immunodeficiency virus (HIV).\n* Patients who are currently enrolled in another clinical study.\n* Patients who have used any investigational drug within 30 days of the first clinic visit.\n* Congestive heart failure New York Heart Association (NYHA) Class III or IV. Uncontrolled cardiac arrhythmias within 3 months of study entry.\n* Uncontrolled diabetes mellitus (HbA1c\\>8.5%) or other endocrine or metabolic disease known to influence serum lipids or lipoproteins. Clinically euthyroid subjects on replacement doses of thyroid hormone are eligible for enrollment.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "65 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Patrick Couture, MD, PhD, FRCP",
+            "affiliation": "Laval University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Laval University",
+            "city": "Quebec City",
+            "state": "Quebec",
+            "zip": "G1V 0A6",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.81228,
+              "lon": -71.21454
+            }
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Sitagliptin First Then Placebo",
+            "description": "Sitagliptin 100 mg/d for 6 weeks\n\nWash-out 14 days\n\nPlacebo for 6 weeks"
+          },
+          {
+            "id": "FG001",
+            "title": "Placebo First, Then Sitagliptin",
+            "description": "Placebo for 6 weeks\n\nWash-out 14 days\n\nSitagliptin 100 mg/d for 6 weeks"
+          }
+        ],
+        "periods": [
+          {
+            "title": "First Intervention (6 Weeks)",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Wash-out (14 Days)",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Second Intervention (6 Weeks)",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "10"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Sitagliptin First Then Placebo",
+            "description": "Sitagliptin 100 mg/d for 6 weeks\n\nSitagliptin: Sitagliptin 100 mg/d for 6 weeks"
+          },
+          {
+            "id": "BG001",
+            "title": "Placebo First Then Sitagliptin",
+            "description": "Placebo for 6 weeks\n\nPlacebo: Placebo for 6 weeks"
+          },
+          {
+            "id": "BG002",
+            "title": "Total",
+            "description": "Total of all reporting groups"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "10"
+              },
+              {
+                "groupId": "BG001",
+                "value": "10"
+              },
+              {
+                "groupId": "BG002",
+                "value": "20"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  }
+                ],
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  }
+                ],
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "58.0",
+                        "spread": "4.6"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "58.5",
+                        "spread": "3.2"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "58.3",
+                        "spread": "3.8"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  }
+                ],
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "8"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "8"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "16"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race and Ethnicity Not Collected",
+            "populationDescription": "Race and Ethnicity were not collected from any participant.",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "Canada",
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  }
+                ],
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "10"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "20"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Measurement of C-reactive Protein Production Rate With Stable Isotope During Postprandial Period",
+            "populationDescription": "Results for this outcome are not available since we had issues with the measurement of deuterated leucine in the current protein (C-reactive protein).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "6 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Sitagliptin",
+                "description": "Sitagliptin 100 mg/d for 6 weeks"
+              },
+              {
+                "id": "OG001",
+                "title": "Placebo",
+                "description": "Placebo for 6 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Measurement of Serum Amyloid A Production Rate With Stable Isotope During Postprandial Period",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "Standard Deviation",
+            "unitOfMeasure": "mg/kg/day",
+            "timeFrame": "6 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Sitagliptin",
+                "description": "Sitagliptin 100 mg/d for 6 weeks"
+              },
+              {
+                "id": "OG001",
+                "title": "Placebo",
+                "description": "Placebo for 6 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "20"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "20"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0.039",
+                        "spread": "0.030"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "0.049",
+                        "spread": "0.047"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Measurement of L-selectin Production Rate With Stable Isotope During Postprandial Period",
+            "populationDescription": "Results for this outcome are not available since we had issues with the measurement of deuterated leucine in the current protein (L-selectin).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "6 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Sitagliptin",
+                "description": "Sitagliptin 100 mg/d for 6 weeks"
+              },
+              {
+                "id": "OG001",
+                "title": "Placebo",
+                "description": "Placebo for 6 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Measurement of ICAM-1 Production Rate With Stable Isotope During Postprandial Period",
+            "populationDescription": "Results for this outcome are not available since we had issues with the measurement of deuterated leucine in the current protein (I-CAM-1).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "6 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Sitagliptin",
+                "description": "Sitagliptin 100 mg/d for 6 weeks"
+              },
+              {
+                "id": "OG001",
+                "title": "Placebo",
+                "description": "Placebo for 6 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "During 16 weeks",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Sitagliptin",
+            "description": "Sitagliptin 100 mg/d for 6 weeks\n\nSitagliptin: Sitagliptin 100 mg/d for 6 weeks",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 20,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 20,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 20
+          },
+          {
+            "id": "EG001",
+            "title": "Placebo",
+            "description": "Placebo for 6 weeks\n\nPlacebo: Placebo for 6 weeks",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 20,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 20,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 20
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Dr. Patrick Couture MD, PhD, FRCP",
+          "organization": "Laval university",
+          "email": "patrick.couture@crchul.ulaval.ca",
+          "phone": "418-654-2106"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot",
+            "hasProtocol": true,
+            "hasSap": false,
+            "hasIcf": false,
+            "label": "Study Protocol",
+            "date": "2015-02-12",
+            "uploadDate": "2020-03-30T10:00",
+            "filename": "Prot_000.pdf",
+            "size": 1836518
+          },
+          {
+            "typeAbbrev": "SAP",
+            "hasProtocol": false,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Statistical Analysis Plan",
+            "date": "2015-02-12",
+            "uploadDate": "2020-04-29T14:20",
+            "filename": "SAP_001.pdf",
+            "size": 28064
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-01"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7119",
+            "name": "Diabetes Mellitus, Type 2",
+            "asFound": "Type 2 Diabetes",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M10293",
+            "name": "Inflammation",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M3620",
+            "name": "Tissue Adhesions",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7862",
+            "name": "Endocrine System Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000068900",
+            "term": "Sitagliptin Phosphate"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007004",
+            "term": "Hypoglycemic Agents"
+          },
+          {
+            "id": "D045505",
+            "term": "Physiological Effects of Drugs"
+          },
+          {
+            "id": "D054795",
+            "term": "Incretins"
+          },
+          {
+            "id": "D006728",
+            "term": "Hormones"
+          },
+          {
+            "id": "D006730",
+            "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "id": "D054873",
+            "term": "Dipeptidyl-Peptidase IV Inhibitors"
+          },
+          {
+            "id": "D011480",
+            "term": "Protease Inhibitors"
+          },
+          {
+            "id": "D004791",
+            "term": "Enzyme Inhibitors"
+          },
+          {
+            "id": "D045504",
+            "term": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M335",
+            "name": "Sitagliptin Phosphate",
+            "asFound": "Mothers",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M10054",
+            "name": "Hypoglycemic Agents",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M27905",
+            "name": "Incretins",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9789",
+            "name": "Hormones",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9788",
+            "name": "Hormone Antagonists",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M27957",
+            "name": "Dipeptidyl-Peptidase IV Inhibitors",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M19609",
+            "name": "HIV Protease Inhibitors",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M14343",
+            "name": "Protease Inhibitors",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7951",
+            "name": "Enzyme Inhibitors",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Hypo",
+            "name": "Hypoglycemic Agents"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          },
+          {
+            "abbrev": "Infe",
+            "name": "Anti-Infective Agents"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06047548",
+        "orgStudyIdInfo": {
+          "id": "18720"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "I8F-MC-GPIQ",
+            "type": "OTHER",
+            "domain": "Eli Lilly and Company"
+          }
+        ],
+        "organization": {
+          "fullName": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study of LY3298176 (Tirzepatide) For the Maintenance of Body Weight Reduction in Participants Who Have Obesity or Overweight With Weight-Related Comorbidities",
+        "officialTitle": "A Phase 3b, Randomized Controlled Study to Evaluate the Efficacy and Safety of Tirzepatide Once Weekly 5 mg and/or Maximum Tolerated Dose Versus Placebo for Maintenance of Body Weight Reduction in Participants Who Have Obesity or Overweight With Weight-Related Comorbidities (SURMOUNT-MAINTAIN)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-04",
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-09-20",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-05",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-05",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2023-09-14",
+        "studyFirstSubmitQcDate": "2023-09-14",
+        "studyFirstPostDateStruct": {
+          "date": "2023-09-21",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-04-17",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-04-18",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main purpose of this study is to evaluate the efficacy and safety of tirzepatide for the maintenance of body weight reduction.",
+        "detailedDescription": "All enrolled participants will complete a 60-week open-label Weight-Loss Period on tirzepatide maximum tolerated dose (MTD) and upon meeting randomization criteria will enter a 52-week double-blinded Weight Maintenance Period to be assigned to either tirzepatide 5 mg, tirzepatide MTD or placebo."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Overweight",
+          "Obesity"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "3b",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 400,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Tirzepatide 5 milligram (mg)",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive tirzepatide subcutaneously (SC).",
+            "interventionNames": [
+              "Drug: Tirzepatide"
+            ]
+          },
+          {
+            "label": "Tirzepatide Maximum Tolerated Dose",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive tirzepatide SC.",
+            "interventionNames": [
+              "Drug: Tirzepatide"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Participants will receive placebo.",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Tirzepatide",
+            "description": "Administered SC",
+            "armGroupLabels": [
+              "Tirzepatide 5 milligram (mg)",
+              "Tirzepatide Maximum Tolerated Dose"
+            ],
+            "otherNames": [
+              "LY3298176"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "description": "Administered SC",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Percent Maintenance of Body Weight (BW) Reduction Achieved during the 60-Week Weight Loss Period",
+            "description": "Mean percent maintenance of BW reduction achieved during the 60-Week weight loss period will be measured in participants who have reached a BW plateau.",
+            "timeFrame": "Week 112"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Number of Participants with an Assessment of (yes/no) of Maintaining ≥80% of the BW Reduction Achieved During the 60-week Weight-Loss Period",
+            "description": "Assessment of (yes/no) of maintaining ≥80% of the BW reduction achieved during the 60-week weight loss period will be measured in participants who have reached a BW plateau.",
+            "timeFrame": "Week 112"
+          },
+          {
+            "measure": "Number of Participants with an Assessment of (yes/no) of Maintaining ≥ 15% BW Reduction for Participants Who Have Already Lost ≥15% BW at Randomization",
+            "description": "Assessment of (yes/no) of maintaining ≥15% BW reduction for participants who have already lost ≥15% BW at randomization will be measured in participants who have reached a BW plateau.",
+            "timeFrame": "Week 112"
+          },
+          {
+            "measure": "Percent Change from Baseline in Body Weight",
+            "timeFrame": "Baseline (Week 0), Week 112"
+          },
+          {
+            "measure": "Change from Randomization in Body Weight",
+            "timeFrame": "Week 60, Week 112"
+          },
+          {
+            "measure": "Percent Change from Randomization in Body Weight",
+            "timeFrame": "Week 60, Week 112"
+          },
+          {
+            "measure": "Change from Randomization in Waist Circumference",
+            "timeFrame": "Week 60, Week 112"
+          },
+          {
+            "measure": "Percent Maintenance of BW Reduction Achieved During the 60-week Weight-Loss Period",
+            "timeFrame": "Week 84"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a Body Mass Index (BMI) of ≥30 kilogram/square meter (kg/m²) or ≥27 kg/m² and previously diagnosed with at least 1 of the following weight related comorbidities:\n\n  * Hypertension, dyslipidemia, obstructive sleep apnea, cardiovascular disease\n* Have a history of at least 1 self-reported unsuccessful dietary effort to lose body weight (BW)\n\nExclusion Criteria:\n\n* Have Type 1 Diabetes (T1D) or Type 2 Diabetes (T2D), a history of ketoacidosis, or hyperosmolar state or coma.\n* Have a self-reported change in BW\\>5 kilogram (kg) within 3 months prior to screening\n* Have a prior or planned surgical treatment for obesity, excluding liposuction or abdominoplasty if performed \\>1 year prior to screening.\n* Have a history of chronic or acute pancreatitis\n* Have any of the following cardiovascular conditions within 3 months prior to week 0.\n\n  * Acute myocardial infarction, cerebrovascular accident (stroke), unstable angina, and hospitalization due to congestive heart failure (CHF)\n  * family or personal history of medullary thyroid carcinoma (MTC) or multiple endocrine neoplasia syndrome type 2 (MEN-2)\n* History of significant active or unstable major depressive disorder (MDD) or other severe psychiatric disorder within the last 2 years\n* Any lifetime history of a suicide attempt",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+            "affiliation": "Eli Lilly and Company",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Cahaba Research - Pelham",
+            "city": "Pelham",
+            "state": "Alabama",
+            "zip": "35124",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.28567,
+              "lon": -86.80999
+            }
+          },
+          {
+            "facility": "Velocity Clinical Research, Westlake",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90057",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Southern California Dermatology, Inc.",
+            "city": "Santa Ana",
+            "state": "California",
+            "zip": "92701",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.74557,
+              "lon": -117.86783
+            }
+          },
+          {
+            "facility": "Encompass Clinical Research",
+            "city": "Spring Valley",
+            "state": "California",
+            "zip": "91978",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.74477,
+              "lon": -116.99892
+            }
+          },
+          {
+            "facility": "New Horizon Research Center",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33165",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "Oviedo Medical Research",
+            "city": "Oviedo",
+            "state": "Florida",
+            "zip": "32765",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.67,
+              "lon": -81.20812
+            }
+          },
+          {
+            "facility": "Rophe Adult and Pediatric Medicine/SKYCRNG",
+            "city": "Union City",
+            "state": "Georgia",
+            "zip": "30291",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.58706,
+              "lon": -84.54243
+            }
+          },
+          {
+            "facility": "East-West Medical Research Institute",
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "zip": "96814",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 21.30694,
+              "lon": -157.85833
+            }
+          },
+          {
+            "facility": "Rocky Mountain Clinical Research",
+            "city": "Idaho Falls",
+            "state": "Idaho",
+            "zip": "83404",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.46658,
+              "lon": -112.03414
+            }
+          },
+          {
+            "facility": "Asha Clinical Research - Munster",
+            "city": "Hammond",
+            "state": "Indiana",
+            "zip": "46324",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.58337,
+              "lon": -87.50004
+            }
+          },
+          {
+            "facility": "Iowa Diabetes and Endocrinology Research Center",
+            "city": "West Des Moines",
+            "state": "Iowa",
+            "zip": "50265",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.57721,
+              "lon": -93.71133
+            }
+          },
+          {
+            "facility": "L-MARC Research Center",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "zip": "40213",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.25424,
+              "lon": -85.75941
+            }
+          },
+          {
+            "facility": "Prime Health and Wellness/SKYCRNG",
+            "city": "Fayette",
+            "state": "Mississippi",
+            "zip": "39069",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 31.71155,
+              "lon": -91.06066
+            }
+          },
+          {
+            "facility": "Alliance for Multispecialty Research, LLC",
+            "city": "Norman",
+            "state": "Oklahoma",
+            "zip": "73069",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.22257,
+              "lon": -97.43948
+            }
+          },
+          {
+            "facility": "WR-Clinsearch, LLC",
+            "city": "Chattanooga",
+            "state": "Tennessee",
+            "zip": "37397",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.04563,
+              "lon": -85.30968
+            }
+          },
+          {
+            "facility": "The University of Texas Health Science Center at Houston",
+            "city": "Bellaire",
+            "state": "Texas",
+            "zip": "77401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.70579,
+              "lon": -95.45883
+            }
+          },
+          {
+            "facility": "Velocity Clinical Research, Dallas",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75230",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "Southern Endocrinology Associates",
+            "city": "Mesquite",
+            "state": "Texas",
+            "zip": "75149",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.7668,
+              "lon": -96.59916
+            }
+          },
+          {
+            "facility": "Pinnacle Clinical Research",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Consano Clinical Research, LLC",
+            "city": "Shavano Park",
+            "state": "Texas",
+            "zip": "78231",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.58495,
+              "lon": -98.55252
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "A Study of LY3298176 (Tirzepatide) For the Maintenance of Body Weight Reduction in Participants Who Have Obesity or Overweight With Weight-Related Comorbidities",
+            "url": "https://trials.lilly.com/en-US/trial/424336"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "Anonymized individual participant level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP",
+          "CSR"
+        ],
+        "timeFrame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.",
+        "accessCriteria": "A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+        "url": "http://vivli.org/"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-01"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D015431",
+            "term": "Weight Loss"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D001836",
+            "term": "Body Weight Changes"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M5114",
+            "name": "Body Weight",
+            "asFound": "Body Weight",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M26186",
+            "name": "Overweight",
+            "asFound": "Overweight",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M12701",
+            "name": "Obesity",
+            "asFound": "Obesity",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M18102",
+            "name": "Weight Loss",
+            "asFound": "Weight Reduction",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M25307",
+            "name": "Overnutrition",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M12684",
+            "name": "Nutrition Disorders",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M5115",
+            "name": "Body Weight Changes",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C000629749",
+            "term": "Tirzepatide"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D054795",
+            "term": "Incretins"
+          },
+          {
+            "id": "D006728",
+            "term": "Hormones"
+          },
+          {
+            "id": "D006730",
+            "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "id": "D045505",
+            "term": "Physiological Effects of Drugs"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M4854",
+            "name": "Benzocaine",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M204206",
+            "name": "Tirzepatide",
+            "asFound": "De novo",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M27905",
+            "name": "Incretins",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9789",
+            "name": "Hormones",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9788",
+            "name": "Hormone Antagonists",
+            "relevance": "LOW"
+          },
+          {
+            "id": "T433",
+            "name": "Tannic Acid",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "CNSDep",
+            "name": "Central Nervous System Depressants"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          },
+          {
+            "abbrev": "Ot",
+            "name": "Other Dietary Supplements"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00796848",
+        "orgStudyIdInfo": {
+          "id": "SU-10172008-1323"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "Stanford eprotocol #14728",
+            "type": "OTHER",
+            "domain": "Stanford IRB"
+          }
+        ],
+        "organization": {
+          "fullName": "Stanford University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Reversal of Hypoglycemia Unawareness Using Continuous Glucose Monitoring",
+        "officialTitle": "Reversal of Hypoglycemia Unawareness Using Continuous Glucose Monitoring"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2018-06",
+        "overallStatus": "WITHDRAWN",
+        "whyStopped": "withdrawn because the research efforts at that time followed another path",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2009-03"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2010-03",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2010-03",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2008-10-23",
+        "studyFirstSubmitQcDate": "2008-11-21",
+        "studyFirstPostDateStruct": {
+          "date": "2008-11-24",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2018-06-01",
+        "lastUpdatePostDateStruct": {
+          "date": "2018-06-06",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Bruce A. Buckingham",
+          "investigatorTitle": "Principle Investigator",
+          "investigatorAffiliation": "Stanford University"
+        },
+        "leadSponsor": {
+          "name": "Stanford University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "University of Colorado, Denver",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of doing this study is to see if continuous glucose monitoring can help people with type 1 diabetes who are sometimes unable to feel if they have a low blood glucose reading. For this study we will be using the Navigator Continuous Glucose Monitor. We think that your body may not have enough of a certain hormone that usually helps people know when they are going low. If you can keep from going low, we think there will be enough of that hormone to help you recognize the symptoms of a low before it happens.",
+        "detailedDescription": "To enroll in this study you must be between the ages of 7 and 20, have type 1 diabetes, and experience at least two episodes of low blood glucose readings weekly that you do not feel. Up to 25 subjects will be enrolled at Stanford and another 25 at the Barbara Davis Center in Colorado. The study will last approximately 8 months for each participant."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 0,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Navigator Continuous Glucose Monitor"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "To evaluate the effectiveness of continuous glucose monitoring in the reduction of hypoglycemia unawareness."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "To assess the levels of epinephrine production in youth diagnosed with hypoglycemia unawareness with and without continuous glucose monitor wear."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Be at least 7 to 20 years old\n2. Have been diagnosed with type 1 diabetes for at least 1 year\n3. Report 2 or more episodes per week of asymptomatic hypoglycemia as determined by completion of the Hypoglycemia Awareness Questionnaire (HAQ) or as determined by Investigator\n4. HbA1c level \\< 10%\n5. Internet access for downloading continuous glucose monitoring (CGM), access to a compatible computer (Windows Vista is not compatible for downloading.)\n6. For females, you are not intending to become pregnant during the study\n7. No expectation that you will be moving out of the area for the duration of the study\n\nExclusion Criteria:\n\n1. The presence of a significant medical disorder (including epilepsy, or any cause of seizures other than hypoglycemia) that in the judgment of the Investigator will affect the wearing of the sensors or the completion of any aspect of the protocol\n2. Treatment with systemic or inhaled corticosteroids in the last six months\n3. Inpatient psychiatric treatment in the past six months for you or your primary caregiver\n4. Current use of oral/inhaled glucocorticoids or other medications, which in the judgment of the Investigator would be a contraindication to participation in the study\n5. Having two or more severe hypoglycemia episodes (seizure or loss of consciousness) in the six months prior to enrollment\n6. Having a severe hypoglycemic episode in the 30 days prior to enrollment",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "7 Years",
+        "maximumAge": "20 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Bruce A. Buckingham",
+            "affiliation": "Stanford University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Stanford University School of Medicine",
+            "city": "Stanford",
+            "state": "California",
+            "zip": "94305",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.42411,
+              "lon": -122.16608
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "Stanford Pediatric Endocrinology Department website",
+            "url": "http://dped.stanford.edu/"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-01"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007003",
+            "term": "Hypoglycemia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10053",
+            "name": "Hypoglycemia",
+            "asFound": "Hypoglycemia",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M17224",
+            "name": "Unconsciousness",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC10",
+            "name": "Nervous System Diseases"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00846248",
+        "orgStudyIdInfo": {
+          "id": "H847627262"
+        },
+        "organization": {
+          "fullName": "University of California, San Francisco",
+          "class": "OTHER"
+        },
+        "briefTitle": "Chromium and Insulin Resistance",
+        "officialTitle": "Chromium and Insulin Resistance"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2012-08",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2006-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2009-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2009-02-17",
+        "studyFirstSubmitQcDate": "2009-02-17",
+        "studyFirstPostDateStruct": {
+          "date": "2009-02-18",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2012-08-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2012-08-31",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of California, San Francisco",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Chromium is an essential nutrient for the maintenance of normal glucose tolerance and its deficiency causes insulin resistance. Chromium administration has also been shown in several studies to lower glucose and insulin levels in patients with type 2 diabetes. Accordingly, we propose to perform a placebo-controlled study of chromium picolinate administration in a cohort of non-obese, non-diabetic, insulin resistant subjects. These subjects will be randomized to 16 weeks of therapy with either 500 mcg twice a day of Chromium or placebo.",
+        "detailedDescription": "Chromium is an essential nutrient for the maintenance of normal glucose tolerance and its deficiency causes insulin resistance. Chromium administration has also been shown in several studies to lower glucose and insulin levels in patients with type 2 diabetes. Moreover, studies in humans, animals and cell culture indicate that chromium enhances insulin signaling. While these studies suggest that chromium administration increases insulin sensitivity, it has not been directly demonstrated that chromium has an effect in well defined insulin resistant subjects independent of hyperglycemia. Accordingly, we propose to perform a placebo-controlled study of chromium picolinate administration in a cohort of non-obese, non-diabetic, insulin resistant subjects. The insulin sensitivity of 80 subjects will be measured by a euglycemic insulin clamp. Approximately 40 insulin resistant subjects will be randomized to 16 weeks of therapy with either 500 ug twice a day of chromium picolinate or placebo. To quantitate the chromium-induced improvements, euglycemic hyperinsulinemic clamps to evaluate insulin sensitivity, OGTT using deuterated glucose to evaluate glycolytic glucose disposal, and muscle biopsies to evaluate insulin signaling pathways, will be performed before and after treatment. We believe these studies will (1) confirm the beneficial effect of chromium on insulin sensitivity; (2) further our understanding of the molecular mechanisms of chromium action; and (3) because these insulin resistant subjects are at risk for the development of type 2 diabetes, the Metabolic Syndrome, and coronary artery disease (CAD), a demonstration of the beneficial effects of chromium on insulin action could ultimately have important public health consequences."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Insulin Resistance"
+        ],
+        "keywords": [
+          "diabetes",
+          "insulin resistance",
+          "chromium",
+          "healthy volunteers"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 75,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "1",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Chromium picolinate",
+            "interventionNames": [
+              "Dietary Supplement: Chromium"
+            ]
+          },
+          {
+            "label": "2",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "2 sugar pills taken twice daily",
+            "interventionNames": [
+              "Dietary Supplement: Chromium",
+              "Dietary Supplement: placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Chromium",
+            "description": "We will enroll non-obese, non-diabetic subjects with insulin resistance in a 16 week treatment program with 500 μg of chromium picolinate twice daily. Insulin action will be determined by insulin clamp and OGTT using deuterated glucose both before and after treatment. Subjects will be compared to a placebo-treated group.",
+            "armGroupLabels": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "placebo",
+            "description": "We will enroll non-obese, non-diabetic subjects with insulin resistance in a 16 week treatment program with 500 μg of chromium picolinate twice daily. Insulin action will be determined by insulin clamp and OGTT using deuterated glucose both before and after treatment. Subjects will be compared to a placebo-treated group.",
+            "armGroupLabels": [
+              "2"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "insulin resistance",
+            "timeFrame": "0 months and 4 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Not exercising regularly, healthy, non-diabetic.\n\nExclusion Criteria:\n\n* Diabetes, heart disease, hepatitis, HIV, impaired glucose tolerance, abnormal liver enzymes, abnormal TSH levels, other abnormal lab values.",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "50 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Umesh Masharani, MD",
+            "affiliation": "University of California, San Francisco",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Martha Nolte, MD",
+            "affiliation": "University of California, San Francisco",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "UCSF",
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.77493,
+              "lon": -122.41942
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "23194380",
+            "type": "DERIVED",
+            "citation": "Masharani U, Gjerde C, McCoy S, Maddux BA, Hessler D, Goldfine ID, Youngren JF. Chromium supplementation in non-obese non-diabetic subjects is associated with a decline in insulin sensitivity. BMC Endocr Disord. 2012 Nov 30;12:31. doi: 10.1186/1472-6823-12-31."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-01"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10370",
+            "name": "Insulin Resistance",
+            "asFound": "Insulin Resistance",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M9997",
+            "name": "Hyperinsulinism",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002857",
+            "term": "Chromium"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014131",
+            "term": "Trace Elements"
+          },
+          {
+            "id": "D018977",
+            "term": "Micronutrients"
+          },
+          {
+            "id": "D045505",
+            "term": "Physiological Effects of Drugs"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M10365",
+            "name": "Insulin",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M173166",
+            "name": "Insulin, Globin Zinc",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M6097",
+            "name": "Chromium",
+            "asFound": "Bypass Graft",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M210889",
+            "name": "Picolinic acid",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M21009",
+            "name": "Micronutrients",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M16885",
+            "name": "Trace Elements",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Hypo",
+            "name": "Hypoglycemic Agents"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          },
+          {
+            "abbrev": "Micro",
+            "name": "Micronutrients"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06977048",
+        "orgStudyIdInfo": {
+          "id": "SBU-H-MG-06"
+        },
+        "organization": {
+          "fullName": "Saglik Bilimleri Universitesi",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effects of an Animated Mobile Application on Diabetic Foot Ulcer Management",
+        "officialTitle": "The Effect of Education Provided Through an Animation-based Mobile Application on Disease Knowledge, Self-efficacy, Wound Size, and Metabolic Parameters in Patients With Diabetic Foot Ulcers: A Randomized Controlled Trial"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-04",
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-04-30",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-12-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2025-12-25",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-05-01",
+        "studyFirstSubmitQcDate": "2025-05-10",
+        "studyFirstPostDateStruct": {
+          "date": "2025-05-16",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-05-10",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-05-16",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Mehtap Günel",
+          "investigatorTitle": "PHD student",
+          "investigatorAffiliation": "Saglik Bilimleri Universitesi"
+        },
+        "leadSponsor": {
+          "name": "Saglik Bilimleri Universitesi",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study was designed to evaluate the effect of education delivered through an animation-based mobile application on the knowledge level, self-efficacy, wound size, and metabolic parameters of individuals with diabetic foot ulcers.",
+        "detailedDescription": "Diabetic foot is one of the most serious complications of diabetes, negatively affecting not only patients but also caregivers, healthcare professionals, and the broader society, both medically and economically. Peripheral neuropathy, peripheral arterial disease, microvascular and macrovascular alterations, impaired glycemic regulation, recurrent trauma, and inadequate foot care can lead to the development of diabetic foot ulcers (DFUs), which may progress to osteomyelitis. Each year, approximately 18.6 million people worldwide are affected by diabetic foot ulcers. The five-year mortality rate among these individuals is around 30%, and it exceeds 70% in those with a history of major amputation. Primary treatment approaches for DFUs include surgical debridement, offloading, treatment of peripheral arterial disease, and infection management. Additionally, therapies such as hyperbaric oxygen, wound dressings, negative pressure wound therapy, and topical oxygen are also employed in the management of diabetic foot ulcers. Compared to amputations due to other causes, a significant proportion of amputations resulting from DFUs are preventable. For this reason, education on diabetes and foot care has been shown to prevent ulcer formation and subsequently reduce amputation rates and associated morbidity.\n\nIndividuals with diabetes need to possess an adequate level of self-efficacy in order to effectively manage lifelong treatment, care, and lifestyle changes. Self-efficacy is defined as a cognitive process through which individuals believe they can influence future outcomes via environmental and social factors and thereby learn new behaviors. It is known that individuals with high self-efficacy are more actively involved in their own care and experience the chronic disease process more successfully. In diabetes management, perceived self-efficacy is considered crucial by researchers and clinicians, as it is associated with adopting a healthy lifestyle, adhering to medication and treatment regimens, and managing stress. Assessing and promoting patients' self-efficacy is a valuable tool in healthcare settings as it enhances motivation for self-care. Supporting patients in this regard may increase life expectancy and help regulate health behaviors. In a study by Bahador et al., a three-month education program for patients with diabetic foot ulcers significantly improved self-efficacy, foot ulcer care rates, and reduced re-ulceration and complication rates. Similarly, Ayaz, Dinçer, and Oğuz (2020) reviewed 26 systematic studies and 8 meta-analyses on the effects of foot care education in diabetic patients and found that such education improved patients' knowledge and behaviors. The authors emphasized the need for long-term educational interventions.\n\nRecent advances in technology and healthcare worldwide have fostered the integration of these two fields and brought mobile health applications to the forefront. Mobile health applications are software tools used via mobile devices such as smartphones or tablets, and they offer advantages over traditional methods. These applications are employed in the management of various chronic diseases including chronic obstructive pulmonary disease (COPD), depression, dementia, and diabetes, particularly for medication adherence, rehabilitation, symptom control, and tracking medical records. In a study by Marquen et al., a mobile application combined with nursing consultation improved foot self-care among individuals with type 2 diabetes. Similarly, Kilic and Karadag developed a Mobile Diabetic Foot Self-Care System for patients with diabetes mellitus, which enhanced patients' knowledge, behaviors, and self-efficacy scores. The use of mobile applications plays a significant role in advancing mobile health technologies, and it is important that such applications are supported by daily messages, videos, and animations.\n\nAnimation is a form of educational material that uses visual simulations to present theoretical knowledge in a more accessible format. Through animation videos, key points of a topic can be highlighted to improve patient understanding, allow repeated viewing of the material, and enhance knowledge levels. In a study by Alyami et al., visual animations shown to patients with type 2 diabetes, their caregivers, and healthcare professionals were found to improve patients' perceptions and enhance the effectiveness of diabetes education. Likewise, Maisrikrod et al. developed an animated educational tool aimed at increasing community awareness in tropical regions where melioidosis and diabetes are prevalent. They concluded that such tools can serve as low-cost, adaptable health education materials."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetic Foot Ulcers (DFU)"
+        ],
+        "keywords": [
+          "diabetic foot",
+          "animation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "Patients will be divided into intervention and control groups by simple randomisation.",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 74,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Experimental - Mobile Application-Based Education Group (Intervention Group)",
+            "type": "OTHER",
+            "description": "Participants receive an educational intervention via a mobile application with animation-based videos and modules on diabetic foot ulcer (DFU) care. The intervention spans 12 weeks and includes initial training and weekly follow-ups.",
+            "interventionNames": [
+              "Other: Mobile Application-Based Educational Program"
+            ]
+          },
+          {
+            "label": "No Intervention - Control Group",
+            "type": "OTHER",
+            "description": "Participants in this group receive no educational intervention and continue their usual care.",
+            "interventionNames": [
+              "Other: Standard care"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Mobile Application-Based Educational Program",
+            "description": "Week 0:\n\nParticipants are informed about the study and trained in the use of the mobile application.\n\nThe mobile app is installed on their smartphones.\n\nEducational animation videos and modules are watched with the researcher in a predefined order.\n\nQuestions about animations are answered.\n\nVideos are downloaded to the participant's phone.\n\nDFU photographs are recorded.\n\nWeeks 1-12:\n\nParticipants are instructed to use the app regularly between weeks 5-12.\n\nVideo watching days and durations are logged using a tracking form.\n\nWeekly push notifications remind participants to use the app.\n\nWeekly phone calls are made to assess engagement using a structured checklist.\n\nDFU photographs are taken at weeks 8 and 12.\n\nAt week 12, data are collected in person, including:\n\nDFU size (length × width) with disposable paper ruler\n\nMetabolic parameters from blood tests\n\nWagner-Meggitt classification\n\nRe-ulceration assessment",
+            "armGroupLabels": [
+              "Experimental - Mobile Application-Based Education Group (Intervention Group)"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Standard care",
+            "description": "Participants provide consent and receive baseline information.\n\nDFU photographs are taken at baseline, week 8, and week 12.\n\nAt week 12, the same outcome measures as the intervention group are collected.\n\nAfter the study ends, participants are provided with access to the mobile application.",
+            "armGroupLabels": [
+              "No Intervention - Control Group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in Diabetic Foot Ulcer Size (cm²)",
+            "description": "This outcome measures the change in the surface area (cm²) of the diabetic foot ulcer from baseline (Week 0) to the end of the intervention (Week 12). The wound size is calculated using the formula length × width (cm × cm).",
+            "timeFrame": "aseline (Week 0) Follow-up (Week 12) (Optional intermediate check at Week 8)"
+          },
+          {
+            "measure": "The Diabetic Foot Care Self-Efficacy Scale (DFCSES)",
+            "description": "The Diabetic Foot Care Self-Efficacy Scale (DFCSES), originally developed by Quarles (2005) and adapted into Turkish by Kır Biçer (2011), will be used to assess participants' self-efficacy regarding diabetic foot care. The scale consists of 9 items rated on a scale from 0 (not confident at all) to 10 (completely confident), with total scores ranging from 0 to 90. Higher scores reflect greater self-efficacy in diabetic foot care. The change in total score from baseline to 12 weeks post-intervention will be evaluated.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in Diabetic Foot Knowledge Score",
+            "description": "Knowledge of diabetic foot care will be measured using a 5-item subscale from the Diabetes Knowledge Questionnaire-24 (DKQ-24), originally developed by Garcia et al. and adapted into Turkish by Biçer. Each item is answered as \"Yes,\" \"No,\" or \"I don't know.\" Total scores range from 0 to 5, with higher scores reflecting greater knowledge of diabetic foot care. The change in score from baseline to 12 weeks post-intervention will be assessed.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in HbA1c (%)",
+            "description": "HbA1c levels will be measured as part of routine laboratory testing. The change in HbA1c (%) from baseline to 12 weeks after the intervention will be evaluated.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in Fasting Blood Glucose (mg/dL)",
+            "description": "Fasting blood glucose (mg/dL) levels will be obtained from routine clinical tests. The change between baseline and 12 weeks post-intervention will be assessed.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in Triglycerides (mg/dL)",
+            "description": "Serum triglyceride levels (mg/dL) will be recorded from routine lab results. The change from baseline to 12 weeks will be analyzed.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in HDL Cholesterol (mg/dL)",
+            "description": "HDL levels (mg/dL) will be obtained from standard lab testing. The difference between pre- and post-intervention values will be evaluated.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in LDL Cholesterol (mg/dL)",
+            "description": "LDL cholesterol levels (mg/dL) will be retrieved from routine blood tests. Change from baseline to follow-up will be measured.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in Total Cholesterol (mg/dL)",
+            "description": "Total cholesterol levels (mg/dL) will be taken from regular lab reports. Change from baseline to 12 weeks will be analyzed.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          },
+          {
+            "measure": "Change in Body Mass Index (BMI, kg/m²)",
+            "description": "BMI will be calculated from measured height and weight. The change in BMI (kg/m²) from baseline to 12 weeks post-intervention will be recorded.",
+            "timeFrame": "Baseline (Week 0) Follow-up (Week 12)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Having a diagnosis of diabetic foot ulcer, having stage 1-2 diabetic foot ulcer according to Wagner classification system, being between the ages of 18-65, being literate, having and using a mobile phone with IOS and ANDROID operating system, volunteering to participate in the study\n\nExclusion Criteria:\n\n* Users who want to withdraw from the research, the patient's exitus during the research process, users who do not log in to the mobile application once a week during the implementation process of the research (twelve weeks) will be excluded from the research.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Ayla D Demirtaş",
+            "affiliation": "Saglik Bilimleri Universitesi",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Gülhane Training and Research Hospital, University of Health Sciences, Turkey",
+            "city": "Ankara",
+            "state": "Keçiören",
+            "zip": "06300",
+            "country": "Turkey",
+            "geoPoint": {
+              "lat": 39.91987,
+              "lon": 32.85427
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "The individual participant data (IPD) will not be shared due to ethical concerns and institutional policy restrictions. The collected data include sensitive health information that cannot be anonymized adequately to protect participant privacy."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-01"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D017719",
+            "term": "Diabetic Foot"
+          },
+          {
+            "id": "D016523",
+            "term": "Foot Ulcer"
+          },
+          {
+            "id": "D014456",
+            "term": "Ulcer"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D003925",
+            "term": "Diabetic Angiopathies"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D007871",
+            "term": "Leg Ulcer"
+          },
+          {
+            "id": "D012883",
+            "term": "Skin Ulcer"
+          },
+          {
+            "id": "D012871",
+            "term": "Skin Diseases"
+          },
+          {
+            "id": "D048909",
+            "term": "Diabetes Complications"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D003929",
+            "term": "Diabetic Neuropathies"
+          },
+          {
+            "id": "D005534",
+            "term": "Foot Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M19933",
+            "name": "Diabetic Foot",
+            "asFound": "Diabetic Foot",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M18919",
+            "name": "Foot Ulcer",
+            "asFound": "Foot Ulcer",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M17206",
+            "name": "Ulcer",
+            "asFound": "Ulcer",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M17685",
+            "name": "Wounds and Injuries",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7120",
+            "name": "Diabetic Angiopathies",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M17400",
+            "name": "Vascular Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10883",
+            "name": "Leg Ulcer",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M15686",
+            "name": "Skin Ulcer",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M15674",
+            "name": "Skin Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M26004",
+            "name": "Diabetes Complications",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7862",
+            "name": "Endocrine System Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7124",
+            "name": "Diabetic Neuropathies",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M8658",
+            "name": "Foot Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC14",
+            "name": "Heart and Blood Diseases"
+          },
+          {
+            "abbrev": "BC17",
+            "name": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          },
+          {
+            "abbrev": "BC26",
+            "name": "Wounds and Injuries"
+          },
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC10",
+            "name": "Nervous System Diseases"
+          },
+          {
+            "abbrev": "BC05",
+            "name": "Musculoskeletal Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  }
+]
