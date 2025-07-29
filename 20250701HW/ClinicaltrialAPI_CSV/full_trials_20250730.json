@@ -1,0 +1,2243 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02416765",
+        "orgStudyIdInfo": {
+          "id": "CLASS10"
+        },
+        "organization": {
+          "fullName": "Institut de Recherches Cliniques de Montreal",
+          "class": "OTHER"
+        },
+        "briefTitle": "Closed-loop Control of Postprandial Glucose Levels in Adults With Type 1 Diabetes",
+        "officialTitle": "An Open-label, Randomized, Five-way, Cross-over Study to Compare the Efficacy of Single- and Dual-hormone Closed-loop Operations Combined With Either Conventional Carbohydrate Counting or a Simplified Qualitative Meal-size Estimation, and Sensor-augmented Pump Therapy in Regulating Glucose Levels in Adults With Type 1 Diabetes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2015-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-05"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2015-10",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2015-10",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2015-04-02",
+        "studyFirstSubmitQcDate": "2015-04-10",
+        "studyFirstPostDateStruct": {
+          "date": "2015-04-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2015-11-13",
+        "lastUpdatePostDateStruct": {
+          "date": "2015-11-16",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Rémi Rabasa-Lhoret",
+          "investigatorTitle": "MD, PhD",
+          "investigatorAffiliation": "Institut de Recherches Cliniques de Montreal"
+        },
+        "leadSponsor": {
+          "name": "Institut de Recherches Cliniques de Montreal",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Postprandial meal glucose control with closed-loop systems (CLS) still needs some improvements. In the postprandial period, sensor delay in detecting blood glucose rise after a meal together with delays in insulin absorption expose patients to early risk of hyperglycemia and then to late-postprandial hypoglycemia. Glucagon infusion in dual-hormone CLS has the potential to improve post-meal control as compared to single-hormone CLS allowing a better glucose excursion related to a more aggressive insulin infusion while minimizing hypoglycemic risk. Several approaches have been tested for the determination of prandial boluses during closed-loop operation.\n\nThe objective of this study is to test in outpatient unrestricted settings whether, in the context of closed-loop strategy, conventional meal carbohydrate counting could be reduced to a simplified qualitative meal size estimation without a significant degradation in overall glycemic control in adult patients with type 1 diabetes.\n\nThe investigators hypothesize that in outpatient free-living conditions: 1) Dual-hormone CLS with partial boluses is equivalent to dual-hormone CLS with full boluses in terms of mean glucose; 2) Single-hormone CLS with partial boluses is equivalent to single-hormone CLS with full boluses in terms of mean glucose. Secondary hypothesis are: 3) Dual-hormone CLS with partial boluses will decrease time in hypoglycemia compared to single-hormone CLS with partial boluses; 4) Dual-hormone CLS with partial boluses is better than sensor-augmented pump therapy in terms of mean glucose; 5) Single-hormone CLS with partial boluses is better than sensor-augmented pump therapy in terms of mean glucose."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 1 Diabetes"
+        ],
+        "keywords": [
+          "Closed-loop strategy",
+          "Artificial pancreas",
+          "Postprandial glucose",
+          "Insulin",
+          "Glucagon",
+          "Hypoglycemia",
+          "Type 1 diabetes"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 15,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Sensor-augmented pump therapy",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Patients will use conventional pump therapy and freely implement their usual basal rate and CHO-matching full prandial bolus to regulate glucose levels.",
+            "interventionNames": [
+              "Other: 15-hour intervention"
+            ]
+          },
+          {
+            "label": "Single-hormone CLS with full boluses",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Variable subcutaneous insulin infusion rates will be used to regulate postprandial glucose levels. Carbohydrate-matching full prandial bolus will be given 10 minutes before the meal. Each subject insulin-to-carbohydrate ratio will be used to calculate the insulin bolus to be given.",
+            "interventionNames": [
+              "Other: 15-hour intervention",
+              "Drug: Insulin (Lispro, Aspart or guilisine)",
+              "Other: Closed-loop strategy"
+            ]
+          },
+          {
+            "label": "Single-hormone CLS with partial boluses",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Variable subcutaneous insulin infusion rates will be used to regulate postprandial glucose levels. A pre-meal partial prandial bolus will be given 10 minutes before the meal. The partial bolus will be based on the estimated meal size (snack-regular-large-very large). Meal size will be defined as: snack as any meal less than 30g, regular meal as any meal between 30g and 60g CHO, large meal as any meal between 60g and 90g CHO, very large meal for anything above 90g CHO.",
+            "interventionNames": [
+              "Other: 15-hour intervention",
+              "Drug: Insulin (Lispro, Aspart or guilisine)",
+              "Other: Closed-loop strategy"
+            ]
+          },
+          {
+            "label": "Dual-hormone CLS with full boluses",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Variable subcutaneous insulin and glucagon infusion rates will be used to regulate postprandial glucose levels. Carbohydrate-matching full prandial bolus will be given 10 minutes before the meal. Each subject insulin-to-carbohydrate ratio will be used to calculate the insulin bolus to be given.",
+            "interventionNames": [
+              "Other: 15-hour intervention",
+              "Drug: Insulin (Lispro, Aspart or guilisine)",
+              "Drug: Glucagon (Eli Lilly)",
+              "Other: Closed-loop strategy"
+            ]
+          },
+          {
+            "label": "Dual-hormone CLS with partial boluses",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Variable subcutaneous insulin and glucagon infusion rates will be used to regulate postprandial glucose levels. A pre-meal partial prandial bolus will be given 10 minutes before the meal. The partial bolus will be based on the estimated meal size (snack-regular-large-very large). Meal size will be defined as: snack as any meal less than 30g, regular meal as any meal between 30g and 60g CHO, large meal as any meal between 60g and 90g CHO, very large meal for anything above 90g CHO.",
+            "interventionNames": [
+              "Other: 15-hour intervention",
+              "Drug: Insulin (Lispro, Aspart or guilisine)",
+              "Drug: Glucagon (Eli Lilly)",
+              "Other: Closed-loop strategy"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "15-hour intervention",
+            "description": "Interventions will be conducted in outpatient settings. Subject's usual insulin will be used. Meals will not be standardized. Subjects will be allowed to eat whatever and when they want and will be allowed to drink alcohol. Subjects will be allowed to exercise, but they will be asked to do the same amount and intensity of exercise on all intervention visits. Subjects will be accompanied all the time by a member from the research team during closed-loop visits to implement hormonal infusions.",
+            "armGroupLabels": [
+              "Dual-hormone CLS with full boluses",
+              "Dual-hormone CLS with partial boluses",
+              "Sensor-augmented pump therapy",
+              "Single-hormone CLS with full boluses",
+              "Single-hormone CLS with partial boluses"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Insulin (Lispro, Aspart or guilisine)",
+            "description": "Patient's usual insulin (Lispro, Aspart or guilisine) will be used in all interventions.",
+            "armGroupLabels": [
+              "Dual-hormone CLS with full boluses",
+              "Dual-hormone CLS with partial boluses",
+              "Single-hormone CLS with full boluses",
+              "Single-hormone CLS with partial boluses"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Glucagon (Eli Lilly)",
+            "description": "In the dual-hormone CLS interventions, glucagon (Eli Lilly) will be used.",
+            "armGroupLabels": [
+              "Dual-hormone CLS with full boluses",
+              "Dual-hormone CLS with partial boluses"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Closed-loop strategy",
+            "description": "Every 10 minutes, the glucose level as measured by the real time sensor (Dexcom G4 Platinum, Dexcom) will be entered manually into the computer. The pumps' infusion rate will then be changed manually based on the computer generated recommendation infusion rates. The computer generated recommendations are based on a predictive algorithm.",
+            "armGroupLabels": [
+              "Dual-hormone CLS with full boluses",
+              "Dual-hormone CLS with partial boluses",
+              "Single-hormone CLS with full boluses",
+              "Single-hormone CLS with partial boluses"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Mean glucose levels as measured by the glucose sensor.",
+            "description": "The following comparisons will be done: 1) Dual-hormone CLS with partial boluses vs. dual-hormone CLS with full boluses; 2) Single-hormone CLS with partial boluses vs. single-hormone CLS with full boluses.",
+            "timeFrame": "15 hours"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Mean glucose levels as measured by the glucose sensor",
+            "description": "The following comparisons will be done: 1) Dual-hormone CLS with partial boluses vs. single-hormone CLS with partial boluses; 2) Dual-hormone CLS with partial boluses vs. sensor-augmented pump therapy; 3) Single-hormone CLS with partial boluses vs. sensor-augmented pump therapy.",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of sensor glucose concentrations between 4 and 8 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of sensor glucose concentrations between 4 and 10 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of sensor glucose concentrations above 10 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of sensor glucose concentrations above 14 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of glucose levels spent below 4 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Percentage of time of glucose levels spent below 3.1 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Area under the curve of glucose values below 4 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Area under the curve of glucose values below 3.1 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Number of patients with at least one hypoglycemic event below 3.1 mmol/L with or without symptoms",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Total number of hypoglycemic event below 3.1 mmol/L",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Total insulin delivery",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Total glucagon delivery",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Standard deviation of glucose levels",
+            "timeFrame": "15 hours"
+          },
+          {
+            "measure": "Total carbohydrate intake",
+            "timeFrame": "15 hours"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Males and females ≥ 18 years old.\n2. Clinical diagnosis of type 1 diabetes for at least one year.\n3. The subject will have been on insulin pump therapy for at least 3 months and currently using a fast actin insulin analog (Lispro, Aspart or Guilisine).\n4. Last (less than 3 months) HbA1c ≤ 10%.\n5. Currently using carbohydrate counting as the meal insulin dose strategy.\n\nExclusion Criteria:\n\n1. Clinically significant microvascular complications: nephropathy (estimated glomerular filtration rate below 40 ml/min), neuropathy (especially diagnosed gastroparesis) or severe proliferative retinopathy as judged by the investigator.\n2. Recent (\\< 3 months) acute macrovascular event e.g. acute coronary syndrome or cardiac surgery.\n3. Ongoing pregnancy.\n4. Severe hypoglycemic episode within 1 month of screening.\n5. Agents affecting gastric emptying (Motilium®, Prandase®, Victoza®, Byetta® and Symlin®) as well as oral anti-diabetic agents (Metformin, SGLT-2 inhibitors and DPP-4 inhibitors) if not at a stable dose for 3 months. Otherwise, these medications are acceptable and will be kept stable during the entire protocol.\n6. Oral steroids unless patients present a low stable dose (e.g. 10 mg or less of prednisone per day or physiological doses, less than 35 mg/day, of hydrocortisone Cortef®). Inhale steroids at stable dose in the last month are acceptable.\n7. Other serious medical illness likely to interfere with study participation or with the ability to complete the trial by the judgment of the investigator (e.g. unstable psychiatric condition).\n8. Failure to comply with team's recommendations (e.g. not willing to change pump parameters, follow algorithm's suggestions, etc).\n9. Living or planned travel outside Montreal (\\> 1h of driving) area during closed-loop procedures.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Rémi Rabasa-Lhoret",
+            "affiliation": "Institut de recherches cliniques de Montréal",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Institut de recherches cliniques de Montréal",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H2W1R7",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D003922",
+            "term": "Diabetes Mellitus, Type 1"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "asFound": "Diabetes",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M7117",
+            "name": "Diabetes Mellitus, Type 1",
+            "asFound": "Type 1 Diabetes",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M10053",
+            "name": "Hypoglycemia",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7862",
+            "name": "Endocrine System Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M4629",
+            "name": "Autoimmune Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10200",
+            "name": "Immune System Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "T4202",
+            "name": "Oculocerebral Syndrome With Hypopigmentation",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC20",
+            "name": "Immune System Diseases"
+          },
+          {
+            "abbrev": "Rare",
+            "name": "Rare Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D005934",
+            "term": "Glucagon"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D045505",
+            "term": "Physiological Effects of Drugs"
+          },
+          {
+            "id": "D005765",
+            "term": "Gastrointestinal Agents"
+          },
+          {
+            "id": "D006728",
+            "term": "Hormones"
+          },
+          {
+            "id": "D006730",
+            "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M10365",
+            "name": "Insulin",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M173166",
+            "name": "Insulin, Globin Zinc",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M29802",
+            "name": "Insulin Lispro",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M3777",
+            "name": "Ethanol",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M29801",
+            "name": "Insulin Aspart",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M13114",
+            "name": "Pancreatin",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M22554",
+            "name": "Pancrelipase",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9789",
+            "name": "Hormones",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9043",
+            "name": "Glucagon",
+            "asFound": "Color",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M26997",
+            "name": "Glucagon-Like Peptide 1",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M8881",
+            "name": "Gastrointestinal Agents",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9788",
+            "name": "Hormone Antagonists",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Hypo",
+            "name": "Hypoglycemic Agents"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          },
+          {
+            "abbrev": "Infe",
+            "name": "Anti-Infective Agents"
+          },
+          {
+            "abbrev": "CNSDep",
+            "name": "Central Nervous System Depressants"
+          },
+          {
+            "abbrev": "Gast",
+            "name": "Gastrointestinal Agents"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03512665",
+        "orgStudyIdInfo": {
+          "id": "TFC-111-2017"
+        },
+        "organization": {
+          "fullName": "University of Los Andes, Columbia",
+          "class": "OTHER"
+        },
+        "briefTitle": "Evaluation of the Impact of a Nutritional Supplement Made of Vegetable Oils in People at Risk of Diabetes",
+        "officialTitle": "Impact of a Supplement of Vegetable Oils on Body Weight and Composition, Insulin Sensitivity and Other Cardiovascular Risk Factors in People at Risk of Developing Type 2 Diabetes Mellitus."
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2018-10",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2018-04-07",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-06-16",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2018-10-02",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2018-04-18",
+        "studyFirstSubmitQcDate": "2018-04-18",
+        "studyFirstPostDateStruct": {
+          "date": "2018-05-01",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2018-10-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2018-10-11",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Carlos O Mendivil",
+          "investigatorTitle": "Associate Professor, School of Medicine",
+          "investigatorAffiliation": "University of Los Andes, Columbia"
+        },
+        "leadSponsor": {
+          "name": "University of Los Andes, Columbia",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Team Foods Colombia S.A.",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Metabolic and cardiovascular diseases are the first cause of morbidity and mortality throughout the world, including Latin America and Colombia. Asymptomatic elevations of blood glucose, insufficient response to normal insulin concentrations (called insulin resistance), overweight and obesity can cause severe damage to body organs, leading to complications and even death. Worryingly, the prevalence of prediabetes is on the rise and efforts in public health policies made to contain this epidemic have had a very limited impact. This has prompted an intense search for non-pharmacological interventions. One of the most promising areas is research on \"nutraceuticals\", foods capable of positively impacting risk factors. However, there are insufficient nutritional or supplementary alternatives to favorably impact carbohydrate metabolism and cardiovascular risk factors in individuals at risk of diabetes. This project will evaluate the effects of the administration of a dietary supplement composed of vegetable oils. The fat composition of these oils is likely to impact positively on the metabolic profile of subjects at risk of diabetes and cardiovascular conditions.",
+        "detailedDescription": "Chronic non-communicable diseases (NCDs) account for 63% of deaths worldwide, of which 80% occur in low- and middle-income countries In Colombia, 71% of all deaths are related to NCDs . This pandemic can be prevented by controlling the risk factors, seeking to create interventions that impact more than one risk factor at a time, including body weight, blood glucose levels, blood pressure, cardiorespiratory fitness and other relatively minor risk factors.\n\nOn the other hand, diabetes mellitus is a major cause of morbidity and mortality worldwide . In its natural history, diabetes is preceded by factors that confer risk of diabetes and for a group of disorders known as \"prediabetes\" term comprising intolerance carbohydrates and impaired fasting glycaemia . Although people at risk of diabetes or prediabetes are often asymptomatic; lesions develop in micro and macrovascular beds and result in long-term kidney dysfunction, retinal damage and affectation of peripheral nerves and arteries. Vascular damage leads to an increased risk of retinopathy renal insufficiency , painful or autonomic neuropathy and atherosclerotic cardiovascular threatening diseases such as acute myocardial infarction.\n\nThe above situation has prompted an intense search for non-pharmacological interventions to intervene in patients at risk of diabetes and prevent negative consequences on the body in the short, medium and long term. One of the most promising areas of research is the nutraceuticals field. Colombian Team Foods S.A has developed a supplement of vegetable oils, that for their composition could have the ability to improve pathophysiological phenomena associated with the development of diabetes and its complications.\n\nThe main objective of this trial is to assess the impact of the consumption of a vegetable oils-based designed jointly by Team Foods and university of los Andes, on several indicators metabolic health in people at risk of diabetes. The specific objectives are:\n\n* To enroll a sample of patients who are at risk of diabetes but have not receive drugs to control plasma glucose, cholesterol or triglycerides, and have not developed complications like kidney or eye dysfunction.\n* To evaluate the effect of daily consumption of the study supplement on fasting blood glucose, the area under the glucose curve in an oral glucose tolerance test, and glycated hemoglobin (HbA1c-an indicator of blood glucose levels over the last 3 months).\n* To evaluate the effect of the supplement on indexes and biomarkers of insulin resistance.\n* To evaluate the effect of the supplement on other cardiovascular risk factors including lipid profile, blood pressure, body weight and body composition."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Insulin Resistance"
+        ],
+        "keywords": [
+          "Pre-diabetes",
+          "cardiovascular risk",
+          "lipids",
+          "insulin resistance",
+          "obesity",
+          "overweight"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 25,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Full dose supplement group",
+            "type": "EXPERIMENTAL",
+            "description": "Patients assigned to this group will receive a daily dose of 7 mL of the study supplement (a mixture of pine, macadamia and pomegranate oils). The appearance and organoleptic properties will be similar to those of the interventions in the other two groups",
+            "interventionNames": [
+              "Dietary Supplement: Full dose supplement"
+            ]
+          },
+          {
+            "label": "Low dose Supplement group",
+            "type": "EXPERIMENTAL",
+            "description": "Patients assigned to this group will receive a daily dose of 7 mL of a mixture containing 50% study supplement and 50% sunflower oil. The appearance and organoleptic properties will be similar to those of the interventions in the other two group",
+            "interventionNames": [
+              "Dietary Supplement: Low dose Supplement"
+            ]
+          },
+          {
+            "label": "Control Oil Group",
+            "type": "OTHER",
+            "description": "Patients assigned to this group will receive a daily 7 mL dose of an oil (sunflower oil) with appearance and organoleptic properties similar to those of the supplement provided in the intervention groups",
+            "interventionNames": [
+              "Other: Control Oil"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Full dose supplement",
+            "description": "A 7ml vial composed of a mixture of pine, macadamia and pomegranate oils.",
+            "armGroupLabels": [
+              "Full dose supplement group"
+            ]
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Low dose Supplement",
+            "description": "A 7 mL vial composed of a mixture containing 50% study supplement (Pine, macadamia and pomegranate oils) and 50% sunflower oil.",
+            "armGroupLabels": [
+              "Low dose Supplement group"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Control Oil",
+            "description": "A 7ml vial composed of sunflower oil with appearance and organoleptic properties similar to those of the supplement provided in the intervention groups.",
+            "armGroupLabels": [
+              "Control Oil Group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Homeostasis Model Assessment - Insulin Resistance (HOMA-IR)",
+            "description": "Change in the HOMA-IR index at week 8, relative to baseline. HOMA-IR is calculated as the product of the fasting glycemia in mmol/L and fasting insulinemia in microunits/mL, divided by the constant 22.5.",
+            "timeFrame": "Measured at baseline and at week 8."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Glycated hemoglobin A1c (HbA1c)",
+            "description": "Change in the values of HbA1c at week 8, relative to baseline",
+            "timeFrame": "Measured at baseline and at week 8."
+          },
+          {
+            "measure": "Body-mass index",
+            "description": "Change in the patients' BMI at week 8, relative to baseline",
+            "timeFrame": "Assessed at baseline and at week 8"
+          },
+          {
+            "measure": "Percent body fat.",
+            "description": "Change in impedanciometry-estimated percent body fat at week 8, relative to baseline",
+            "timeFrame": "Assessed at baseline and at week 8"
+          },
+          {
+            "measure": "Percent abdominal fat",
+            "description": "Change in impedanciometry-estimated percent abdominal fat at week 8, relative to baseline.",
+            "timeFrame": "Assessed at baseline and at week 8."
+          },
+          {
+            "measure": "Lean body mass.",
+            "description": "Change in impedanciometry-estimated lean body mass.",
+            "timeFrame": "Assessed at baseline and at week 8."
+          },
+          {
+            "measure": "Waist circumference.",
+            "description": "Change in waist circumference",
+            "timeFrame": "Assessed at baseline and at week 8."
+          },
+          {
+            "measure": "High-sensitivity C-reactive protein (hsCRP)",
+            "description": "Change in plasma hsCRP.",
+            "timeFrame": "Measured at baseline and at week 8."
+          },
+          {
+            "measure": "Pigment epithelium-derived factor (PEDF).",
+            "description": "Change in plasma levels of PEDF, a biomarker of insulin resistance.",
+            "timeFrame": "Measured at baseline and at week 8."
+          },
+          {
+            "measure": "Change in plasma adiponectin",
+            "description": "Change in plasma levels of total adiponectin.",
+            "timeFrame": "Measured at baseline and at week 8"
+          },
+          {
+            "measure": "Change in plasma FGF-21",
+            "description": "Change in plasma levels of Fibroblast growth factor 21 (FGF-21).",
+            "timeFrame": "Measured at baseline and at week 8."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 or older.\n* Risk of type 2 diabetes (T2DM) given by BMI 25 kg/m2 or greater and / or Finnish Diabetes Risk Score(FinnRisc) greater than 12.\n* Manifest desire to participate in the study, and provision of informed consent.\n* Participants must continue their regular eating habits and physical activity.\n\nExclusion Criteria:\n\n* Current participation in a systematic weight loss program.\n* Current use of medications that modify insulin sensitivity (except contraceptives in the case of women).\n* Known hypersensitivity to any component of the supplement.\n* Gastrointestinal problems that negatively affect the adherence to the study intervention.\n* Known complications from diabetes or hypertension: Coronary heart disease, nephropathy, retinopathy, cerebrovascular disease, diabetic foot or painful neuropathy.\n* Pregnancy.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Carlos O Mendivil, MD. PhD",
+            "affiliation": "University of Los Andes, Columbia",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University Of Los Andes Columbia",
+            "city": "Bogotá",
+            "state": "Cundinamarca",
+            "zip": "111711",
+            "country": "Colombia",
+            "geoPoint": {
+              "lat": 4.60971,
+              "lon": -74.08175
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "31691133",
+            "type": "DERIVED",
+            "citation": "Pelaez-Jaramillo MJ, Valencia-Enciso N, Cardenas-Mojica AA, Gaete PV, Scher-Nemirovsky EA, Gomez-Arango LF, Colmenares-Araque D, Castro-Lopez CA, Betancourt-Villamizar E, Jaimes-Madrigal J, Alvarez CA, Jimenez-Mora MA, Quiroga-Padilla PJ, Puerto-Baracaldo DK, Mendivil CO. Impact of a Formulation Containing Unusual Polyunsaturated Fatty Acids, Trace Elements, Polyphenols and Plant Sterols on Insulin Resistance and Associated Disturbances. Diabetes Ther. 2020 Jan;11(1):229-245. doi: 10.1007/s13300-019-00721-z. Epub 2019 Nov 5."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M12701",
+            "name": "Obesity",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10018",
+            "name": "Hypersensitivity",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7119",
+            "name": "Diabetes Mellitus, Type 2",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M26186",
+            "name": "Overweight",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M14117",
+            "name": "Prediabetic State",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M5114",
+            "name": "Body Weight",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10370",
+            "name": "Insulin Resistance",
+            "asFound": "Insulin Resistance",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M20295",
+            "name": "Glucose Intolerance",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9997",
+            "name": "Hyperinsulinism",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC20",
+            "name": "Immune System Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "browseLeaves": [
+          {
+            "id": "M10365",
+            "name": "Insulin",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M173166",
+            "name": "Insulin, Globin Zinc",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M259607",
+            "name": "Pycnogenols",
+            "relevance": "LOW"
+          },
+          {
+            "id": "T305",
+            "name": "Sunflower",
+            "relevance": "LOW"
+          },
+          {
+            "id": "T257",
+            "name": "Pomegranate",
+            "relevance": "LOW"
+          },
+          {
+            "id": "T423",
+            "name": "Pycnogenols",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Hypo",
+            "name": "Hypoglycemic Agents"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          },
+          {
+            "abbrev": "PlAggInh",
+            "name": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "abbrev": "HB",
+            "name": "Herbal and Botanical"
+          },
+          {
+            "abbrev": "Ot",
+            "name": "Other Dietary Supplements"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06362265",
+        "orgStudyIdInfo": {
+          "id": "18437"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "I8H-MC-BDDB",
+            "type": "OTHER",
+            "domain": "Eli Lilly and Company"
+          }
+        ],
+        "organization": {
+          "fullName": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study to Evaluate Pharmacokinetics of LY3209590 in Pediatric Participants With Type 2 Diabetes Mellitus",
+        "officialTitle": "A Single Dose Study to Evaluate the Pharmacokinetics of LY3209590 in Pediatric Participants With Type 2 Diabetes Mellitus"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-07",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-10-10",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-11",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-11",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2024-04-09",
+        "studyFirstSubmitQcDate": "2024-04-09",
+        "studyFirstPostDateStruct": {
+          "date": "2024-04-12",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-07-07",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-07-08",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main purpose of this study is to evaluate how much of LY3209590 gets into the blood stream after a single dose and how long it takes the body to remove it in pediatric participants with Type 2 Diabetes Mellitus (T2DM). The study will last for approximately 100 days."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes Mellitus"
+        ],
+        "keywords": [
+          "Insulin"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 22,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "LY3209590",
+            "type": "EXPERIMENTAL",
+            "description": "LY3209590 administered subcutaneously (SC).",
+            "interventionNames": [
+              "Drug: LY3209590"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "LY3209590",
+            "description": "Administered SC.",
+            "armGroupLabels": [
+              "LY3209590"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Pharmacokinetics (PK): Area Under the Plasma Concentration Versus Time Curve (AUC) of LY3209590",
+            "timeFrame": "Predose up to 65 days post dose"
+          },
+          {
+            "measure": "PK: Maximum Observed Plasma Concentration (Cmax) of LY3209590",
+            "timeFrame": "Predose up to 65 days post dose"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change from Baseline in Fasting Glucose",
+            "timeFrame": "Baseline, 65 days"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants with Type 2 Diabetes Mellitus (T2DM) for at least 3 months\n* Have Glycated hemoglobin (HbA1c) level of 6.5 percent (%) to 9.5% at screening\n* Have a body mass index equal to or less than 45.0 kilograms per square meter (kg/m²)\n* Participants are insulin naïve or have been without insulin treatment for at least 3 months prior to screening\n\nExclusion Criteria:\n\n* Have had a severe hypoglycemia in the past 6 months\n* Have a history of renal impairment\n* Have had a blood transfusion or severe blood loss within last 90 days\n* Have had a significant weight gain or loss of approximately 6% or more within 3 months prior to screening.\n* Have a history of an active or untreated malignancy\n* Are receiving or received systemic glucocorticoid therapy\n* Are currently enrolled in another clinical study trial involving medical research or have participated within the last 30 days in a clinical study involving an investigational product",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "10 Years",
+        "maximumAge": "17 Years",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or",
+            "role": "CONTACT",
+            "phone": "13176154559",
+            "email": "clinical_inquiry_hub@lilly.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+            "affiliation": "Eli Lilly and Company",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Children's Hospital Los Angeles",
+            "status": "RECRUITING",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90027",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "323-361-7116"
+              },
+              {
+                "name": "Lily Chao",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Children's Healthcare of Atlanta - Center for Advanced Pediatrics",
+            "status": "RECRUITING",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30329",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "404-785-5437"
+              },
+              {
+                "name": "Kristina Cossen",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 33.749,
+              "lon": -84.38798
+            }
+          },
+          {
+            "facility": "Centricity Research Columbus Endocrinology",
+            "status": "RECRUITING",
+            "city": "Columbus",
+            "state": "Georgia",
+            "zip": "31904",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "706-996-2921"
+              },
+              {
+                "name": "Steven Leichter",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 32.46098,
+              "lon": -84.98771
+            }
+          },
+          {
+            "facility": "Johns Hopkins Hospital",
+            "status": "RECRUITING",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Risa Wolf",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.29038,
+              "lon": -76.61219
+            }
+          },
+          {
+            "facility": "Joslin Diabetes Center",
+            "status": "NOT_YET_RECRUITING",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02215",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "617-732-2603"
+              },
+              {
+                "name": "Lori Laffel",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 42.35843,
+              "lon": -71.05977
+            }
+          },
+          {
+            "facility": "UBMD Pediatrics",
+            "status": "RECRUITING",
+            "city": "Buffalo",
+            "state": "New York",
+            "zip": "14203",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "716-323-0160"
+              },
+              {
+                "name": "Kathleen Bethin",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 42.88645,
+              "lon": -78.87837
+            }
+          },
+          {
+            "facility": "NYU Langone",
+            "status": "NOT_YET_RECRUITING",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10016",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "212-263-9910"
+              },
+              {
+                "name": "Mary Pat Gallagher",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 40.71427,
+              "lon": -74.00597
+            }
+          },
+          {
+            "facility": "Cincinnati Children's Hospital Medical Center",
+            "status": "RECRUITING",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "zip": "45229-3039",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "513-636-4744"
+              },
+              {
+                "name": "Amy Shah",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.12713,
+              "lon": -84.51435
+            }
+          },
+          {
+            "facility": "Children's Hospital of Philadelphia",
+            "status": "NOT_YET_RECRUITING",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19104",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "215-590-3174"
+              },
+              {
+                "name": "Steven Willi",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.95233,
+              "lon": -75.16379
+            }
+          },
+          {
+            "facility": "Lifedoc Research - Lenox Park Drive",
+            "status": "RECRUITING",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "zip": "38115",
+            "country": "United States",
+            "contacts": [
+              {
+                "role": "CONTACT",
+                "phone": "901-683-0024"
+              },
+              {
+                "name": "Pedro Velasquez-Mieyer",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 35.14953,
+              "lon": -90.04898
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "Related Info",
+            "url": "https://trials.lilly.com/en-US/trial/474857"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "asFound": "Diabetes Mellitus",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M7119",
+            "name": "Diabetes Mellitus, Type 2",
+            "asFound": "Type 2 Diabetes Mellitus",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7862",
+            "name": "Endocrine System Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "browseLeaves": [
+          {
+            "id": "M10365",
+            "name": "Insulin",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M173166",
+            "name": "Insulin, Globin Zinc",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Hypo",
+            "name": "Hypoglycemic Agents"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05814965",
+        "orgStudyIdInfo": {
+          "id": "Dr. Sanjay Tewari 2023"
+        },
+        "organization": {
+          "fullName": "Postgraduate Institute of Dental Sciences Rohtak",
+          "class": "OTHER"
+        },
+        "briefTitle": "Association of Apical Periodontitis With Systemic Level of Inflammatory Markers : A Longitudinal Intervention Study",
+        "officialTitle": "Association of Apical Periodontitis With Systemic Level of Inflammatory Markers : A Longitudinal Intervention Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2023-04",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-04-05",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-12",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2025-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2023-04-03",
+        "studyFirstSubmitQcDate": "2023-04-03",
+        "studyFirstPostDateStruct": {
+          "date": "2023-04-18",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2023-04-03",
+        "lastUpdatePostDateStruct": {
+          "date": "2023-04-18",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Postgraduate Institute of Dental Sciences Rohtak",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "While cross-sectional studies have reported a significant association between diabetes and Apical Periodontics, prospective studies are scarce. This will be the first prospective interventional study to explore the cause-and-effect relation between AP and diabetes by assessment of levels of inflammatory markers in a longitudinal setting. Periapical healing in diabetics and nondiabetics will be compared after root canal treatment to evaluate the role of various physical and metabolic attributes on endodontic outcomes.",
+        "detailedDescription": "This prospective longitudinal interventional study will be conducted on patients with radiographic evidence of AP in at least one teeth. Total of 280 patients will be selected from the pool of the patients referred to the Outpatient Department of Conservative Dentistry and Endodontics, Post Graduate Institute of Dental Sciences, Rohtak. They will be equally divided into two broad groups either without any systemic disease (140 patients) or with type 2 DM.(140 Patients with DM). Each group further divided into 70 patients with AP and 70 control in a systemically healthy group (selected to match participants in age, sex and BMI). Similarly,70 patients with AP and 70 control for participants with type 2 DM will be selected to additionally match with glycaemic control, drugs, and dietary measures apart from other physical attributes.\n\nAnalysis of systemic inflammatory markers IL-1b, IL-6, TNF- α and hsCRP will be done at baseline in both healthy and diabetic participants. Root canal treatment will be done in all the participants with AP and assessment of periapical healing and change in inflammatory markers will be done at 3, 6, and 12-month follow-up.\n\nSample size: Sample size was estimated based on the difference in hsCRP level in patients with AP and healthy control. Effect size of 0.52 was calculated based on the mean difference and pooled SD of 0.91 and 1.75 respectively. Sample size of 58 per group was obtained at 80% power and 0.05 alpha level. Anticipating 20% dropout, total 70 patients per group (in 4 groups total 280 patients)will be recruited.\n\nRoot Canal treatment Access opening will be done after rubber dam isolation and administration of local anesthesia.\n\ndebridement of the pulp chamber will be done and all canal orifices will be identified.\n\nNegotiation of canals will be done. Working length will be determined using root ZX apex locator and will be verified radiographically. Root canal treatment will be performed with protaper rotary instrument using standard protocol. Coronal 2/3rd pre-enlargement will be performed with S1 and S2 files and apical third will be prepared with S1 followed by S2 and suitable finishing files depending on the size of apical binding file. Irrigation will be carried out using 5 mL of a 5% NaOCl solution between files. After preparation, the root canals will be irrigated with 5 mL 17% EDTA for 3 minutes to remove smear layer, followed by 5 mL 5% NaOCl. The final irrigation will be done with 5 mL distilled water. Intracanal dressing of Calcium hydroxide will be applied for 7 days and obturation of canal will be performed after 7 days on 2nd visit. The root canals will be dried using paper points and filled with laterally condensed gutta-percha (Dentsply Maillefer) and AH plus resin-after manipulation following manufacturers' instructions. Gutta- percha will be cut with a heated instrument and vertically condensed right at the orifice opening of the canals. Final composite resin restoration will be performed following manufacturer instruction. All the posterior teeth will be metal/ceramic crown after the completion of root canal treatment.\n\nFollow up Follow-up and clinical and radiographic examinations will be carried out after every three months for one year. Glycaemic control in diabetes patients will also be evaluated by HbA1c values at each follow-up interval."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 2",
+          "Apical Periodontitis"
+        ],
+        "keywords": [
+          "Apical Periodontitis",
+          "Diabetes mellitus",
+          "High sensitivity C-reactive protein",
+          "Tumor necrosis factor-alpha",
+          "Interleukin",
+          "Glycated hemoglobin"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "280 patients 140 in DM (70 each with AP and 70 without AP) and 140 Systemically healthy (70 each with AP and 70 without AP)will be enrolled and compared for systemic markers .Subjects with AP will be provided Endodontics treatment and levels of markers will be assessed one year after Endodontics treatment. markers.",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "TRIPLE",
+            "whoMasked": [
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 280,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Diabetic patients with Apical periodontitis",
+            "type": "EXPERIMENTAL",
+            "description": "Diabetic patients with Apical periodontitis received Endodontics treatment in form of Root canal treatment and assessment of inflammatory and metabolic markers",
+            "interventionNames": [
+              "Procedure: endodontic treatment in the form of root canal treatment"
+            ]
+          },
+          {
+            "label": "Healthy patients with Apical periodontitis",
+            "type": "EXPERIMENTAL",
+            "description": "systemically healthy participants patients with Apical periodontitis received Endodontics treatment in the form of root canal treatment and assessment of inflammatory markers",
+            "interventionNames": [
+              "Procedure: endodontic treatment"
+            ]
+          },
+          {
+            "label": "Diabetic patients with out Apical periodontitis",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "systemic inflammatory markers along with metabolic markers will be assessed",
+            "interventionNames": [
+              "Diagnostic Test: inflammatory markers will be assessed along with metabolic markers assessment"
+            ]
+          },
+          {
+            "label": "Healthy participants without Apical periodontitis",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "systemic inflammatory markers will be assessed",
+            "interventionNames": [
+              "Diagnostic Test: assessment of inflammatory marker"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "endodontic treatment in the form of root canal treatment",
+            "description": "Patients will receive endodontic treatment, and inflammatory markers will be assessed",
+            "armGroupLabels": [
+              "Diabetic patients with Apical periodontitis"
+            ],
+            "otherNames": [
+              "RCT"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "endodontic treatment",
+            "description": "Patients will receive endodontic treatment in the form of root canal treatment, and inflammatory markers will be assessed along with metabolic markers assessment",
+            "armGroupLabels": [
+              "Healthy patients with Apical periodontitis"
+            ]
+          },
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "assessment of inflammatory marker",
+            "description": "assessment of inflammatory markers",
+            "armGroupLabels": [
+              "Healthy participants without Apical periodontitis"
+            ]
+          },
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "inflammatory markers will be assessed along with metabolic markers assessment",
+            "description": "inflammatory markers will be assessed along with metabolic markers assessment",
+            "armGroupLabels": [
+              "Diabetic patients with out Apical periodontitis"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "PAI SCORE",
+            "description": "PERIAPICAL INDEX RADIOGRAPHIC EVALUATION",
+            "timeFrame": "12 MONTHS"
+          },
+          {
+            "measure": "Interlukin 1B",
+            "description": "INFLAMMATORY MARKER BY ELISA KIT",
+            "timeFrame": "12 MONTHS"
+          },
+          {
+            "measure": "IL 6",
+            "description": "ESTIMATION OF NFLAMMATORY MARKER BY ELISA KIT",
+            "timeFrame": "12 MONTHS"
+          },
+          {
+            "measure": "TNF -ALPHA",
+            "description": "ESTIMATION OF NFLAMMATORY MARKER BY ELISA KIT",
+            "timeFrame": "12 MONTHS"
+          },
+          {
+            "measure": "hs-CRP",
+            "description": "ESTIMATION OF NFLAMMATORY MARKER BY ELISA KIT",
+            "timeFrame": "12 MONTHS"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients 30-55 year age group with minimum 20 natural teeth, with pulp necrosis confirmed by cold test and electric pulp test and radiographic evidence of periapical radiolucency with PAI score of ≥3 (24) or more in at least one mature tooth.\n* control in the systemically healthy group will be selected to match participants in terms of age, sex, and BMI.\n* control for participants with type 2 DM will be selected to additionally match with glycaemic control, drugs and dietary measures apart from other physical attributes.\n\nExclusion Criteria:\n\n* Patients with clinical diagnosis of moderate to severe periodontitis (≥6 sites with probing depth ≥5 mm at separate teeth, with attachment loss and radiographic alveolar bone loss), Patients with immunosuppression, pregnancy, conditions requiring prophylactic antibiotics prior to dental treatment, bleeding disorders, medical conditions that may affect study participation (e.g., unstable cardiovascular disease) and chronic inflammatory conditions like rheumatoid",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "30 Years",
+        "maximumAge": "55 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "SANJAY TEWARI, MDS",
+            "role": "CONTACT",
+            "phone": "01262-283876",
+            "email": "principalpgids@yahoo.in"
+          },
+          {
+            "name": "SANJAY TEWARI",
+            "role": "CONTACT",
+            "phone": "01262-283876",
+            "email": "principalpgids@yahoo.in"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "SANJAY TEWARI",
+            "affiliation": "POST GRADUATE INSTITUTE OF DENTAL SCIENCES,ROHTAK",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "PGIDS",
+            "status": "RECRUITING",
+            "city": "Rohtak",
+            "state": "Haryana",
+            "zip": "124001",
+            "country": "India",
+            "contacts": [
+              {
+                "name": "Dr. Sanjay Tewari, MDS",
+                "role": "CONTACT",
+                "phone": "01262283876",
+                "email": "principalpgids@yahoo.in"
+              }
+            ],
+            "geoPoint": {
+              "lat": 28.89447,
+              "lon": 76.58917
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D010518",
+            "term": "Periodontitis"
+          },
+          {
+            "id": "D010485",
+            "term": "Periapical Periodontitis"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D010510",
+            "term": "Periodontal Diseases"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          },
+          {
+            "id": "D010483",
+            "term": "Periapical Diseases"
+          },
+          {
+            "id": "D007571",
+            "term": "Jaw Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M10018",
+            "name": "Hypersensitivity",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M12284",
+            "name": "Necrosis",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7115",
+            "name": "Diabetes Mellitus",
+            "asFound": "Diabetes Mellitus",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M7119",
+            "name": "Diabetes Mellitus, Type 2",
+            "asFound": "Diabetes Mellitus, Type 2",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M13427",
+            "name": "Periodontitis",
+            "asFound": "Periodontitis",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M13395",
+            "name": "Periapical Periodontitis",
+            "asFound": "Apical Periodontitis",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M11639",
+            "name": "Metabolic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25403",
+            "name": "Glucose Metabolism Disorders",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7862",
+            "name": "Endocrine System Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M13419",
+            "name": "Periodontal Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M12019",
+            "name": "Mouth Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M12017",
+            "name": "Stomatognathic Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M13393",
+            "name": "Periapical Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10601",
+            "name": "Jaw Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC20",
+            "name": "Immune System Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          },
+          {
+            "abbrev": "BC18",
+            "name": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "abbrev": "BC19",
+            "name": "Gland and Hormone Related Diseases"
+          },
+          {
+            "abbrev": "BC07",
+            "name": "Mouth and Tooth Diseases"
+          },
+          {
+            "abbrev": "BC05",
+            "name": "Musculoskeletal Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "browseLeaves": [
+          {
+            "id": "M207501",
+            "name": "Chrysarobin",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "Infl",
+            "name": "Anti-Inflammatory Agents"
+          },
+          {
+            "abbrev": "ARhu",
+            "name": "Antirheumatic Agents"
+          },
+          {
+            "abbrev": "Analg",
+            "name": "Analgesics"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01609465",
+        "orgStudyIdInfo": {
+          "id": "CALIBER 10-13"
+        },
+        "organization": {
+          "fullName": "University College, London",
+          "class": "OTHER"
+        },
+        "briefTitle": "Prognostic Models for People With Stable Coronary Artery Disease",
+        "officialTitle": "Prognostic Models for People With Stable Coronary Artery Disease"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2012-05",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2010-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-12",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2014-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2012-05-22",
+        "studyFirstSubmitQcDate": "2012-05-29",
+        "studyFirstPostDateStruct": {
+          "date": "2012-06-01",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2012-05-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2012-06-01",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Harry Hemingway",
+          "investigatorTitle": "Professor of Clinical Epidemiology",
+          "investigatorAffiliation": "University College, London"
+        },
+        "leadSponsor": {
+          "name": "University College, London",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "London School of Hygiene and Tropical Medicine",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "There is currently no published algorithm for secondary prevention prognosis of CHD that is representative of the England GP-registered population and that includes both symptomatic and asymptomatic patients (as identified through primary care). In this paper the investigators will exploit routinely collected information in clinical practice to model CHD prognosis based on a large contemporary open cohort of stable CAD patients. Although the investigators model is based on data from GP practices in England only, the investigators believe that this population is sufficiently heterogeneous in terms of ethnic mix, socioeconomic background, predisposing characteristics and lifestyles to generate a prognostic model with good generalizing power to the wider population.\n\nAmong the research questions the investigators will try to answer is whether established risk factors for primary care prevention (smoking, hypertension, dyslipidaemia, diabetes) are also reliable for risk-stratification of patients who have already developed CAD. Similarly, the investigators will examine whether strong predictors of adverse outcomes in ACS patients in the short term, such as admission SBP and heart rate, are also associated with their long term prognosis.",
+        "detailedDescription": "Objectives\n\n1. To use routinely collected primary care and clinical audit (MINAP) data for patients in England to develop and validate prognostic models for people with stable CAD.\n2. To identify key prognostic factors for progression to MI or fatal CHD and compare their strength among clinically important subgroups.\n3. To estimate the risk distribution to specific time horizons overall and within clinically important subgroups.\n4. To use estimates derived from the model to inform subsequent decision models relating to e.g. selection of patients for CABG or second-line anti-platelet agents (e.g. clopidogrel).\n\nThe outcome of primary interest is fatal CHD \\& non-fatal MI. As a secondary outcome we will model all cause mortality. Incidence for these endpoints will be estimated over a period of up to 5 years depending on the quality and availability of follow-up in the cohort. We may cautiously extend to other endpoints, including CVD and endpoints that reflect symptomatic status (e.g. nitrate use).\n\nWe plan to follow the reporting guidelines set out in the forthcoming work led by Atman and Moons.\n\nData and methods\n\nData sources\n\nInformation will be extracted from the CALIBER (Cardiovascular disease research using linked bespoke studies and electronic records) study. CALIBER is a collection of public health data repositories, linking the national myocardial infarction register to the rich longitudinal primary care record, secondary care data sources and to highly phenotyped cohorts in the UCL genetics consortium. Currently, the CALIBER dataset is composed by linkage of several datasets:\n\n* General Practice Research Database (GPRD)7\n* Myocardial Ischaemia National Audit Project (MINAP)8\n* Hospital Episode Statistics (HES)9\n* Mortality data from the Office for National Statistics (ONS)\n\nSetting and study population\n\nEligible general practices were defined as practices that meet standards for acceptable levels of data recording (i.e. audits demonstrated that \"at least 95% of relevant patient encounters are recorded and data meet quality standards for epidemiological research\"7), and have consented to linkage with HES and MINAP (approximately 200 practices).\n\nTo define incident cases we will exclude patients who have not been observed during the year prior to their CAD diagnosis date. For prevalent cases we will remove this condition.\n\nOur startpoint population is defined as patients aged 18 years or over diagnosed with CAD, under which we include:\n\n1. patients diagnosed with stable angina\n2. patients with ACS (STEMI, NSTEMI \\& unstable angina) who survived \\> 4 weeks. Patients with a CAD diagnosis who received revascularization during follow-up will enter the cohort after the procedure (given post-procedure survival \\>4 weeks).\n\nWe will cautiously define broader as well as more specific startpoint populations so as to fully exploit the information quantity and richness in the CALIBER data. Thus, we will extend our analysis to prevalent CAD cases and to incident cohorts with one of the four CAD subtypes (stable angina, unstable angina, STEMI and NSTEMI).\n\nThe study start date will be defined as 1st January 2000, in order to include only those patients for whom cause-specific mortality data is potentially available (first linked 1st January 2001). The study period will end on 20th October, 2009, the last date of linkage with ONS mortality data.\n\nFor each patient we will determine the right censor date, which will be the earliest of the following dates: date of developing the outcome of interest, the end of study period (20 October 2009), date of non-coronary death, date of leaving the practice, or last practice data collection date.\n\nEthics\n\nThe study uses anonymised dataset from the GPRD, MINAP and HES. The study protocol was evaluated and approved by the Independent Scientific Advisory Committee (ISAC) of the Medicines and Healthcare products Regulatory Agency (MHRA) (ISAC protocol Nos 07-008 and 10-106). The study was registered at clinicaltrials.gov (registration No TBC).\n\nExplanatory factors considered Initially, we will consider a wide range of risk factors and biomarkers that have been implicated in coronary artery syndromes and are broadly available at/around the time of a clinical review, including Framingham (\"standard\") risk factors (age, smoking status, blood pressure, cholesterol and diabetes). Because, typically, risk factors are not measured concurrently but over a few days around the time of diagnosis we will define rules to select 'baseline' measurements and handle conflicts in overlapping values between GPRD and MINAP (where these arise).\n\nOur selection will be drawn from:\n\n1. demographic, including age at diagnosis, ethnicity and the index of multiple deprivation (IMD)\n2. lifestyle, including smoking and alcohol consumption\n3. blood pressure-related, including SBP, DBP, prescription of anti-hypertensives, diagnosed hypertension, pulse rate and pulse pressure\n4. lipids-related, including total cholesterol, HDL, triglycerides and prescription of statins\n5. diabetes-related, including diagnosis of type I or II diabetes, diabetes medication, fasting plasma glucose, Hb1Ac and BMI\n6. biomarkers, including creatinine and haemoglobin\n7. Secondary prevention medications (aspirin, clopidogrel, beta-blockers, ACE inhibitors and beta-blockers)\n8. Previous interventions (PCI and CABG)\n9. CVD severity, including angiographic findings (normal/abnormal left ventricular function), CV-coexisting conditions (stroke, peripheral artery disease) previous MI and consultation frequency (within the last year)\n10. Non-CV co-morbidities, major chapters included in the Charlson index\n11. For ACS patients we will also consider information specifically recorded in MINAP in relation to the hospital episode (acute pulse rate, acute SBP and DBP and beta-troponin).\n\nTreatment of missing values\n\nWhere possible, repeated measurements will be used to replace missing data in the baseline record. The approach will be based on a set of rules for transferring measurements between different consultations and reconciling measurements from different sources that we will develop for the CALIBER project.\n\nThe remaining missing values will be replaced with predicted values under the multiple imputation framework, as implemented in the R package 'mice' (version 2). This version of 'mice' can handle both missing at random (MAR) and missing not at random (MNAR) patterns.\n\nTo identify suitable models for imputing each variable we will take the following approach:\n\n* compute the correlation matrix to select strong predictors for the missing data in each variable\n* assess missing data patterns, proportion and covariate distributions\n* identify the strength of association with outcome of interest (fitting a Cox model with all variables)\n* identify a suitable imputation model and simplify it where possible (but always include standard risk factors and any other predictors we expect to include in the prognostic model based on their clinical importance)\n* decide the order in which the variables would be imputed (e.g. in order of decreasing missingness, correlation and/or predictive power).\n\nAll our imputation models will include the outcome of interest (CHD death or non-fatal MI) as previously described 10.\n\nImputation will form part of variable selection and model estimation as described later.\n\nVariable selection\n\nWe will select our final model based on a combination of approaches including statistical performance and clinical feasibility. Our aim is to arrive at a generalizable, efficiently estimable model that, at the same time, is sensitive enough to capture much of the heterogeneity in the target population.\n\nWe will assess statistical performance in CoxPH models with the outcome(s) of interest. Sex will be included as an adjusted or stratifying variable depending on whether or not the proportional hazards (PH) assumption is satisfied.\n\nIt is possible that patients from different practices differ in their underlying risk (e.g. due to regional variations in case-mix). Hence, we will test the PH assumption with respect to sex-specific baseline hazards of the GP practices in the data. If the PH assumption is violated we will estimate Cox models within each practice and combine coefficients by random effects meta-analysis. If the PH assumption is satisfied we will assume the same baseline hazard across practices and indicate the clustered patients (in the same GP practice) in the model to estimate robust variances.\n\nWe will choose the timescale for the Cox models based on preliminary analysis exploring two alternatives, age-at-risk or time to event/censoring. Our choice will be based largely on the age-spread of diagnosis and cases in the cohort and which timescale is more likely to have fewer PH violations.\n\nIn step 1 we will explore univariate associations between each candidate predictor and the primary endpoint in terms of the strength and shape of association and evaluate plausible interactions with age, time and sex. Where the shape differs significantly from linearity we will consider more flexible modelling, such as using restricted-cubic splines. Proportional hazards will be assessed by examining Schoenfield residuals. Variables with low statistical significance will not be considered further unless there are strong clinical reasons.\n\nIn step 2 we will follow a data-driven approach to identify important variables among those retained from step 1 in a multivariate context. For this we will use stepwise regression, as implemented in the fastbw function in the 'rms' R package (ref), forcing into all candidate models the standard risk factors. We will apply the algorithm separately for each panel of candidate predictors, e.g. blood pressure variables, CVD severity etc so as to ensure that at least 1 predictor from each group is represented in the final model. As a general rule p\\>0.1 and lack of strong association in the univariate setting will be considered evidence for exclusion.\n\nThe steps above will be coupled with multiple imputation, as previously recommended11, using an efficient and unbiased approach among the options proposed for the problem at hand. Final selection will be based on assessing several candidate models with similar statistical performance using other criteria, such as the proportion of non-imputed data, measurement reliability, clinical feasibility and clinicians' advice.\n\nOnce variables to be included in the model have been selected we will update imputation models (where necessary) to include these variables. Not doing so could bias associations to null12.\n\nEstimation\n\nEstimation of coefficients and risks needs to incorporate three types of uncertainty:\n\n* Uncertainty due to imputation of missing data (dealt with by incorporating between-imputation variation)\n* Uncertainty in the estimation of model parameters (dealt with by cross-validation)\n* Sensitivity to data sample (dealt with by bootstrapping the data)\n\nTo perform 10-fold cross-validation the data will be randomly divided into 10 subgroups. The risks for individuals in subgroup q will be estimated by fitting the Cox model to all subgroups except subgroup q. Repeating this for each subgroup q=1,..,10 yields predicted risks for all individuals. As a sensitivity analysis we will repeat the cross-validation procedure splitting by GP-practice instead of randomly across all practices.\n\nEstimation will proceed as follows:\n\n1. All predictors selected to be in the final model that have missing data will be imputed based on the imputation models selected in earlier steps.\n2. CoxPH models will be fitted (with cross-validation) for the endpoint of interest treating non-CHD deaths as censored observations.\n3. CoxPH models will be fitted (with cross-validation) for non-CHD treating MI and fatal CHD as censored observations.\n4. Risks will be estimated for each individual adjusting for non-CHD mortality based on the cause-specific Cox models and the formula described by Kalbfleisch \\& Prentice13.\n5. Standard errors will be obtained by repeating steps 2 to 4 on a suitable number (200) of bootstrap samples.\n6. The procedure will be repeated from step 1 for another 4 rounds of imputation to obtain the between imputation variance.\n7. Estimates will be combined using Rubin's rules. Evaluation Most standard methods for model evaluation assume absolute risks (not adjusted for competing risks). Because we are dealing with cumulative incidences (i.e. risks adjusted for non-CVD mortality) we will modify evaluation approaches accordingly.\n\n   * Calibration will be checked by grouping predictions into deciles and computing the mean risk within each decile against the competing risks-adjusted Kaplan-Meier (i.e. cumulative incidence) for that risk group.\n   * Discrimination will be checked overall and in an age-specific manner using a formulation of the C-index that allows adjusting for competing risks14.\n\nFinally, we will compare performance (where possible) with other published risk algorithms, such as GRACE15 and REACH3 that refer to similar starting populations and outcomes. To do this, we will fit models using the set of covariates included in the published algorithms and compare them with our proposed new model. Because no clinically meaningful risk thresholds exist for secondary CHD prevention as yet we will use metrics that do not require risk stratification. Possible examples are the continuous NRI16 and the Brier score.\n\nStatistical software and version\n\nR version 13.1 with appropriate add-on packages."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Stable Coronary Artery Disease"
+        ],
+        "keywords": [
+          "CAD",
+          "stable angina",
+          "STEMI",
+          "NSTEMI",
+          "CVD",
+          "secondary prevention"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 300000,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Stable angina"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible general practices were defined as practices that meet standards for acceptable levels of data recording (i.e. audits demonstrated that \"at least 95% of relevant patient encounters are recorded and data meet quality standards for epidemiological research\"7), and have consented to linkage with HES and MINAP (approximately 200 practices).",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "To define incident cases we will exclude patients who have not been observed during the year prior to their CAD diagnosis date. For prevalent cases we will remove this condition.\n\nOur startpoint population is defined as patients aged 18 years or over diagnosed with CAD, under which we include:\n\n1. patients diagnosed with stable angina\n2. patients with ACS (STEMI, NSTEMI \\& unstable angina) who survived \\> 4 weeks. Patients with a CAD diagnosis who received revascularization during follow-up will enter the cohort after the procedure (given post-procedure survival \\>4 weeks).",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Harry Hemingway, FRCP",
+            "affiliation": "University College, London",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Clinical Epidemiology Group, UCL",
+            "city": "London",
+            "zip": "WC1E 7HE",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 51.50853,
+              "lon": -0.12574
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "13678872",
+            "type": "BACKGROUND",
+            "citation": "Fox KM; EURopean trial On reduction of cardiac events with Perindopril in stable coronary Artery disease Investigators. Efficacy of perindopril in reduction of cardiovascular events among patients with stable coronary artery disease: randomised, double-blind, placebo-controlled, multicentre trial (the EUROPA study). Lancet. 2003 Sep 6;362(9386):782-8. doi: 10.1016/s0140-6736(03)14286-9."
+          },
+          {
+            "pmid": "21249668",
+            "type": "BACKGROUND",
+            "citation": "Squizzato A, Keller T, Romualdi E, Middeldorp S. Clopidogrel plus aspirin versus aspirin alone for preventing cardiovascular disease. Cochrane Database Syst Rev. 2011 Jan 19;(1):CD005158. doi: 10.1002/14651858.CD005158.pub3."
+          },
+          {
+            "pmid": "16210253",
+            "type": "BACKGROUND",
+            "citation": "Clayton TC, Lubsen J, Pocock SJ, Voko Z, Kirwan BA, Fox KA, Poole-Wilson PA. Risk score for predicting death, myocardial infarction, and stroke in patients with stable angina, based on a large randomised trial cohort of patients. BMJ. 2005 Oct 15;331(7521):869. doi: 10.1136/bmj.38603.656076.63. Epub 2005 Oct 6."
+          },
+          {
+            "pmid": "10431864",
+            "type": "BACKGROUND",
+            "citation": "Roques F, Nashef SA, Michel P, Gauducheau E, de Vincentiis C, Baudet E, Cortina J, David M, Faichney A, Gabrielle F, Gams E, Harjula A, Jones MT, Pintor PP, Salamon R, Thulin L. Risk factors and outcome in European cardiac surgery: analysis of the EuroSCORE multinational database of 19030 patients. Eur J Cardiothorac Surg. 1999 Jun;15(6):816-22; discussion 822-3. doi: 10.1016/s1010-7940(99)00106-2."
+          },
+          {
+            "pmid": "12511455",
+            "type": "BACKGROUND",
+            "citation": "Sutcliffe SJ, Fox KF, Wood DA, Sutcliffe A, Stock K, Wright M, Akhras F, Langford E. Incidence of coronary heart disease in a health authority in London: review of a community register. BMJ. 2003 Jan 4;326(7379):20. doi: 10.1136/bmj.326.7379.20. No abstract available."
+          },
+          {
+            "pmid": "10213569",
+            "type": "BACKGROUND",
+            "citation": "Walley T, Mantgani A. The UK General Practice Research Database. Lancet. 1997 Oct 11;350(9084):1097-9. doi: 10.1016/S0140-6736(97)04248-7. No abstract available."
+          },
+          {
+            "pmid": "15330343",
+            "type": "BACKGROUND",
+            "citation": "Birkhead J, Walker L. National audit of myocardial infarction (MINAP): a project in evolution. Hosp Med. 2004 Aug;65(8):452-3. doi: 10.12968/hosp.2004.65.8.15487. No abstract available."
+          },
+          {
+            "pmid": "19452569",
+            "type": "BACKGROUND",
+            "citation": "White IR, Royston P. Imputing missing covariate values for the Cox model. Stat Med. 2009 Jul 10;28(15):1982-98. doi: 10.1002/sim.3618."
+          },
+          {
+            "pmid": "18203127",
+            "type": "BACKGROUND",
+            "citation": "Wood AM, White IR, Royston P. How should variable selection be performed with multiply imputed data? Stat Med. 2008 Jul 30;27(17):3227-46. doi: 10.1002/sim.3177."
+          },
+          {
+            "pmid": "21225900",
+            "type": "BACKGROUND",
+            "citation": "White IR, Royston P, Wood AM. Multiple imputation using chained equations: Issues and guidance for practice. Stat Med. 2011 Feb 20;30(4):377-99. doi: 10.1002/sim.4067. Epub 2010 Nov 30."
+          },
+          {
+            "pmid": "373811",
+            "type": "BACKGROUND",
+            "citation": "Prentice RL, Kalbfleisch JD, Peterson AV Jr, Flournoy N, Farewell VT, Breslow NE. The analysis of failure times in the presence of competing risks. Biometrics. 1978 Dec;34(4):541-54."
+          },
+          {
+            "pmid": "19367167",
+            "type": "BACKGROUND",
+            "citation": "Wolbers M, Koller MT, Witteman JC, Steyerberg EW. Prognostic models with competing risks: methods and application to coronary risk prediction. Epidemiology. 2009 Jul;20(4):555-61. doi: 10.1097/EDE.0b013e3181a39056."
+          },
+          {
+            "pmid": "12909070",
+            "type": "BACKGROUND",
+            "citation": "Fox KA, Goodman SG, Anderson FA Jr, Granger CB, Moscucci M, Flather MD, Spencer F, Budaj A, Dabbous OH, Gore JM; GRACE Investigators. From guidelines to clinical practice: the impact of hospital and geographical characteristics on temporal trends in the management of acute coronary syndromes. The Global Registry of Acute Coronary Events (GRACE). Eur Heart J. 2003 Aug;24(15):1414-24. doi: 10.1016/s0195-668x(03)00315-4."
+          },
+          {
+            "pmid": "21204120",
+            "type": "BACKGROUND",
+            "citation": "Pencina MJ, D'Agostino RB Sr, Steyerberg EW. Extensions of net reclassification improvement calculations to measure usefulness of new biomarkers. Stat Med. 2011 Jan 15;30(1):11-21. doi: 10.1002/sim.4085. Epub 2010 Nov 5."
+          },
+          {
+            "pmid": "20805624",
+            "type": "BACKGROUND",
+            "citation": "Bhatt DL, Eagle KA, Ohman EM, Hirsch AT, Goto S, Mahoney EM, Wilson PW, Alberts MJ, D'Agostino R, Liau CS, Mas JL, Rother J, Smith SC Jr, Salette G, Contant CF, Massaro JM, Steg PG; REACH Registry Investigators. Comparative determinants of 4-year cardiovascular event rates in stable outpatients at risk of or with atherothrombosis. JAMA. 2010 Sep 22;304(12):1350-7. doi: 10.1001/jama.2010.1322. Epub 2010 Aug 30."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2025-07-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003324",
+            "term": "Coronary Artery Disease"
+          },
+          {
+            "id": "D017202",
+            "term": "Myocardial Ischemia"
+          },
+          {
+            "id": "D003327",
+            "term": "Coronary Disease"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D001161",
+            "term": "Arteriosclerosis"
+          },
+          {
+            "id": "D001157",
+            "term": "Arterial Occlusive Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M12307",
+            "name": "Neoplasm Metastasis",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M6546",
+            "name": "Coronary Artery Disease",
+            "asFound": "Coronary Artery Disease",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M19506",
+            "name": "Myocardial Ischemia",
+            "asFound": "Coronary Artery Disease",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M4117",
+            "name": "Angina Pectoris",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M6549",
+            "name": "Coronary Disease",
+            "asFound": "Coronary Artery Disease",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M1072",
+            "name": "ST Elevation Myocardial Infarction",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M29575",
+            "name": "Angina, Stable",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M1073",
+            "name": "Non-ST Elevated Myocardial Infarction",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10543",
+            "name": "Ischemia",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9419",
+            "name": "Heart Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M4469",
+            "name": "Arteriosclerosis",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M4465",
+            "name": "Arterial Occlusive Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M17400",
+            "name": "Vascular Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC04",
+            "name": "Neoplasms"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC14",
+            "name": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  }
+]
